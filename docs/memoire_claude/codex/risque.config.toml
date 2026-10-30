@@ -1,0 +1,25 @@
+# Profil « risque » — le reglage FORT de la review cross-model.
+#
+# Superpose au config.toml de base par `-p risque` : seules les deux cles
+# ci-dessous remplacent celles du fichier de base ; tout le reste (sandbox,
+# plugins, serveurs MCP, projets de confiance) continue d'en venir.
+#
+# Usage, et `-p` se place AVANT la sous-commande :
+#   codex -p risque review --uncommitted
+#   codex -p risque review --commit <sha>
+#
+# Ne s'emploie QUE si l'utilisateur l'ecrit dans le prompt du lot (regle de
+# ~/.claude/CLAUDE.md) : le defaut reste gpt-5.6-luna a l'effort high.
+#
+# gpt-6.1-sol, lance le 2026-09-29 (changelog OpenAI), est le « latest
+# workhorse model for coding and everyday work » : performance proche d'Astra
+# a 2 $/M en entree et 10 $/M en sortie. Verifie le 2026-10-02 par une sonde
+# reelle : le compte l'accepte a l'effort `high` et repond.
+#
+# ⚠️ DEUX CLIENTS, DEUX CATALOGUES (mesure du 2026-10-02) : ce slug est servi
+# au client 0.159.0 (l'application de bureau) mais PAS a la CLI npm 0.153.0,
+# qui tournerait alors sur des metadonnees de repli, sans un mot. Tant que la
+# CLI du PATH n'est pas montee en 0.160.0, verifier la ligne `model:` imprimee
+# par la passe — c'est la seule chose qui le dise.
+model = "gpt-6.1-sol"
+model_reasoning_effort = "high"

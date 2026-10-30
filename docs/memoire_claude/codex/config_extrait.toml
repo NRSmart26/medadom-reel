@@ -1,0 +1,9 @@
+# Extrait de ~/.codex/config.toml du PC de travail (30/10/2026) : le reglage de la review
+# `codex review --uncommitted` exigee par CLAUDE_global.md. Le reste du fichier (plugins, projets de
+# confiance, chemins de ce PC) n'a pas a etre recopie. A placer en tete de ~/.codex/config.toml.
+sandbox_mode = "danger-full-access"
+personality = "pragmatic"
+
+service_tier = "default"
+model = "gpt-5.6-luna"
+model_reasoning_effort = "high"
