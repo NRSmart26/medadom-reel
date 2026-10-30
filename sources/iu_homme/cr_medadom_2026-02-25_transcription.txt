@@ -1,0 +1,42 @@
+Transcription (29/10/2026) du compte rendu Medadom « Prise en charge de l'infection urinaire masculine (IUM) et
+ses complications en téléconsultation », classe virtuelle du 25 février 2026 (PDF fourni par Romain le 29/10/2026,
+« infection urinaire masculine en teleconsultation - les bonnes pratiques.pdf », une page).
+
+1. Prérequis : infection urinaire masculine plutôt que prostatite. Sémantiquement, le terme d'infection urinaire
+masculine est préféré à celui de prostatite. Sa prise en charge à distance repose à la fois sur la clinique et sur la
+biologie.
+
+2. Prise en charge de l'infection urinaire masculine. Très fréquente chez le sujet âgé.
+- Clinique : fièvre, frisson, lombalgie, pyurie, pollakiurie, hématurie. Si fièvre : hémoculture.
+- Biologie :
+  1) Bandelette urinaire : examen d'orientation immédiat, qui se réalise en pharmacie et renseigne sur la présence
+     de nitrites et de leucocytes dans les urines (à effectuer sur les premières urines). Encadré : « Aucun intérêt
+     en cas de sondage urinaire ! »
+  2) ECBU : examen d'identification bactérienne, se réalise en laboratoire ou avec un infirmier sur le second jet.
+     Seuil significatif si bactériurie ≥ 10^3. Antibiothérapie si colonisation urinaire avec symptômes ; pas
+     d'antibiothérapie si colonisation urinaire sans symptômes, sauf femmes enceintes et avant une intervention
+     urologique (fosfomycine).
+- Traitements :
+  1re intention : ceftriaxone (IM) : 1 g 1x/j qsp 10 j avec reconsultation pour adaptation systématique à
+  l'antibiogramme + ordonnance infirmière.
+  2e intention : ciprofloxacine 500 mg 2x/j qsp 10 j avec reconsultation pour adaptation systématique à
+  l'antibiogramme.
+  Pas de fluoroquinolone si traitement dans les 6 derniers mois ⇒ risque de tendinopathies et de rupture tendineuse.
+  Encadré : « En cas de doute avec une colique néphrétique : pas d'anti-inflammatoires. »
+- Facteurs de risque de complication : antibiothérapie dans les 6 mois ; personnes de plus de 75 ans ; immunodéprimé ;
+  ou personne de plus de 65 ans si présence d'un critère de Quick Sofa ou critères de Fried.
+  Quand hospitaliser ? Si vomissements, rétention aiguë d'urine, immunodépression profonde.
+
+3. Les situations à risque chez l'homme
+- Pyélonéphrite. À rechercher : lombalgie fébrile. Complications redoutées : obstruction des voies urinaires, abcès
+  prostatique, sepsis grave ⇒ choc septique ⇒ décès. Quand hospitaliser ? Si vomissements, hyperalgie ou doute
+  diagnostique.
+- Pyélonéphrite obstructive. À rechercher : hyperalgie ? insuffisance rénale aiguë ? Recherche obstacle : cas de
+  figure pour colique néphrétique, compression extrinsèque. + Recherche une dilatation des cavités (en présentiel).
+- Diagnostic différentiel : orchi-épididymite. Chez le patient âgé avec une hyperplasie bénigne de la prostate ou
+  chez les jeunes (origine sexuelle).
+→ À réadresser aux urgences, avec un courrier d'adressage mentionnant votre démarche ainsi que la conduite à tenir
+  transmise au patient.
+
+Pour aller plus loin : Antibioclic ; podcast Medadom sur les fluoroquinolones ; recommandations de la SPILF.
+Contact : affaires-medicales@medadom.com

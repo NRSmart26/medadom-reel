@@ -1,0 +1,6 @@
+# Python 3.11 ; puis : python -m playwright install chrome (ou Chrome deja installe), npm install, ffmpeg dans le PATH
+numpy
+pillow
+scipy
+requests
+playwright

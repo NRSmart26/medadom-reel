@@ -1,0 +1,297 @@
+=== slides\slide1.xml
+ Infections Urinaires Masculines Aiguës Communautaires de l’Adulte (IUMACA)Mise à jour des recommandations
+Jeu de diapositives réalisé par le comité des référentiels de la SPILF 
+le …20/06/2026
+A partir de …publication 
+=== slides\slide2.xml
+Sociétés associées
+Société de Pathologie Infectieuse de Langue Française 
+Société Française de Gériatrie et Gérontologie
+Association Française d’Urologie
+Société Française de Médecine d’Urgence
+Société Française de Microbiologie
+Société Française de Pharmacologie et Thérapeutique
+Société Nationale de Médecine Interne 
+Collège National des Généralistes Enseignants
+=== slides\slide3.xml
+Introduction/contexte
+Cadre de cette recommandation : infections urinaires aiguës, communautaires, de l’homme, adulte
+Ne sont pas traitées, les infections urinaires :
+Du patient immunodéprimé
+Du patient porteur de sonde urinaire (vésicale, urétérale ou néphrostomie)
+Du patient avec vessie neurologique
+Liées aux soins 
+Récidivantes
+=== slides\slide4.xml
+Définitions (1)
+Colonisation urinaire bactérienne  
+Détection à l’ECBU d’une ou plusieurs bactéries (quelles que soient leur concentration et la leucocyturie) en l’absence de symptômes
+Recherche ou traitement d’une colonisation urinaire :  non indiqués, sauf avant certains gestes urologiques 
+Hématurie macroscopique ou rétention aiguë d’urine, isolées, ne sont pas des signes cliniques d’infection urinaire 
+Dans ces situations il n’est pas recommandé de réaliser un ECBU ni de traiter une éventuelle colonisation urinaire
+=== slides\slide5.xml
+Définitions (2)
+Bactériurie de signification clinique indéterminée
+Présence d’une bactériurie associée à des signes généraux non spécifiques et à l’absence de signes clinique de cystite
+Dans cette situation et en l’absence de sepsis*, une surveillance clinique sans antibiothérapie est recommandée
+  ٭ Sepsis : infection avec dysfonction d’organe
+=== slides\slide6.xml
+Bandelette urinaire, ECBU
+Bandelette urinaire 
+Non recommandée dans la stratégie diagnostique
+ECBU
+Recommandé pour le diagnostic de toute infection urinaire avant de débuter une antibiothérapie
+Seuils de significativité : leucocyturie 30x103/mL, et bactériurie monomicrobienne ≥103 UFC/mL pour les principaux uropathogènes
+La présence de signes cliniques d’infection urinaire prime sur les seuils de leucocyturie et de bactériurie 
+=== slides\slide7.xml
+ECBU
+Non recommandé dans les situations suivantes :
+Rétention aiguë d’urine isolée 
+Signes généraux non spécifiques du sujet âgé (confusion, dépendance aiguë, altération brutale de l’état général, décompensation d’organe, chute) lorsqu’il n’ y a pas de signes d’infection urinaire associés
+Après un traitement antibiotique curatif conduisant à la guérison clinique
+=== slides\slide8.xml
+Cystite aiguë bactérienne, diagnostic
+Diagnostic clinique : présence de signes cliniques locaux, d’apparition aigüe, et absence de fièvre
+Signes locaux : brûlures urétrales per-mictionnelles, pollakiurie, urgenturie, dysurie, nycturie, douleur de l’hypogastre. L’association d’une hématurie macroscopique est possible
+ECBU : seul examen complémentaire recommandé pour confirmer le diagnostic 
+Prélèvement sanguin : non recommandé (pas de dosage du PSA ni des marqueurs de l’inflammation)
+=== slides\slide9.xml
+Cystite aiguë bactérienneantibiothérapie initiale 
+Si bonne tolérance ou diagnostic douteux : attendre les résultats de l’ECBU pour débuter un traitement antibiotique adapté à la documentation microbiologique et l’antibiogramme
+Dans le cas contraire, traitement oral probabiliste, par ordre alphabétique :
+Fosfomycine-trométamol (3 g à J1-J3-J5) 
+Nitrofurantoïne 100 mgx3/j 
+Pivmécillinam 400 mgx2/j
+=== slides\slide10.xml
+Cystite aiguë bactérienne antibiothérapie après documentation
+Poursuite du traitement probabiliste si uropathogène sensible
+Sinon, adaptation selon antibiogramme, par ordre alphabétique : 
+Amoxicilline 1 gx3/j
+Fosfomycine-trométamol 3 g/prise
+Nitrofurantoïne 100 mgx3/j 
+Pivmécillinam 400 mgx2/j 
+Triméthoprime 300 mgx1/j
+=== slides\slide11.xml
+Cystite, durée de l’antibiothérapie
+7 jours
+Sauf fosfomycine-trometamol : 3 doses (J1-J3-J5) 									
+=== slides\slide12.xml
+Prostatite aiguë, diagnostic
+Signes cliniques de cystite + fièvre ou manifestations systémiques d’infection + ECBU positif
+Toucher rectal : uniquement si doute sur diagnostic entre cystite et prostatite 
+Dosage du PSA : non recommandé 
+Si prise en charge ambulatoire :
+Dosage de la créatinine sérique non recommandé sauf facteurs de risque d’insuffisance rénale aiguë (insuffisance rénale chronique, antécédents urologiques, déshydratation, traitements à risque : diurétiques, IEC, AINS, aminosides…)
+Dosage des marqueurs inflammatoires et hémocultures non recommandés
+=== slides\slide13.xml
+Prostatite aiguë, imagerie
+Recommandée uniquement dans les situations suivantes :
+En urgence :  
+Si sepsis ou choc septique : scanner abdomino-pelvien injecté
+Si doute sur une rétention aiguë d’urine : bladder scanner ou échographie sus-pubienne, pour un drainage en urgence si rétention d’urine
+Après 72h d’une antibiothérapie adaptée : 
+En cas de mauvaise évolution clinique (persistance de la fièvre ou aggravation des signes urinaires)  IRM ou TDM injectée ou échographie prostatique par voie endo-rectale à la recherche d’un abcès prostatique 
+=== slides\slide14.xml
+Prostatite aiguë, antibiothérapie initiale (1)
+Absence de signes de gravité
+Traitement initié en milieu hospitalier : céfotaxime IV 3 g/jour OU ceftriaxone IV 1 g/jour
+Traitement initié en ambulatoire : 
+Ceftriaxone IV ou IM ou SC 1 g/jour 
+Ou ciprofloxacine PO 500 mgx2/jour OU lévofloxacine PO 500 mg/jour
+(en l’absence de prise de fluoroquinolones dans les 6 mois, nausées, vomissements, malabsorption, observance incertaine…) 
+Sepsis
+Céfotaxime IV 6 g/jour OU ceftriaxone IV 2 g/jour 
+ET amikacine IV 30 mg/kg, dose unique
+=== slides\slide15.xml
+Prostatite aiguë, antibiothérapie initiale (2)
+Choc septique*
+Si pas de facteurs de risque d’infection à Enterobacterales résistantes aux C3G ** : 
+Céfotaxime IV 6 g/jour OU ceftriaxone IV 2 g/jour
+ET amikacine IV 30 mg/kg, dose unique
+Si au moins 1 facteur de risque d’infection à Enterobacterales résistantes aux C3G** :       								         Imipénème IV 3 g/jour OU méropénème IV 6 g/jour
+    ET amikacine IV 30 mg/kg, dose unique
+*Sepsis + défaillance hémodynamique nécessitant un vasopresseur et lactatémie > 2 mmol/l
+** Patient vivant dans un EHPAD - Infection et/ou colonisation à Enterobacterales résistant aux C3G dans les 3 mois - Voyage à l’étranger dans les 3 mois - Prise de fluoroquinolones, amoxicilline-acide clavulanique ou C3G dans les 3 mois
+=== slides\slide16.xml
+Prostatite aiguë, antibiothérapie, relais en fonction de l’antibiogramme (1)
+Relais oral possible, par ordre préférentiel 
+Sulfaméthoxazole-triméthoprime PO 800/160 mg  1 cpx2/jour
+Ciprofloxacine PO 500 mgx2/jour OU lévofloxacine PO 500 mg/jour OU ofloxacine PO 200 mgx2/jour
+Si résistance ou contre-indication à l’association sulfaméthoxazole-triméthoprime et aux fluoroquinolones, après retour à l’apyrexie et par ordre préférentiel :
+Fosfomycine-trométamol 3 g tous les jours OU amoxicilline PO 1 gx3/jour OU amoxicilline-acide clavulanique PO 1 gx3/jour
+Si pas de relais oral possible : céfotaxime IV 3 g/jour OU ceftriaxone IV, IM ou SC 1 g/jour
+=== slides\slide17.xml
+Prostatite aiguë, antibiothérapie, relais en fonction de l’antibiogramme (2)
+Enterobacterales résistantes aux C3G
+Par hyperproduction de céphalosporinase : céfépime IV 4 g/jour OU témocilline IV 6 g/jour
+Par production de BLSE : 
+1er choix, par ordre alphabétique : céfoxitine IV 6 g/jour (seulement si E. coli ou Proteus) OU pipéracilline-tazobactam IV 12 g/jour OU témocilline IV 6 g/jour
+A défaut, par ordre alphabétique : ertapénème IV 1 g/jour OU imipénème IV 3 g/jour OU méropénème IV 3 g/jour 
+Relais oral, par ordre de préférence : sulfaméthoxazole-triméthoprime PO 800/160 mg 1 cpx2/jour, ciprofloxacine PO 500 mgx2/jour OU lévofloxacine PO 500 mg/jour OU ofloxacine PO 200 mgx2/jour, fosfomycine-trométamol 3 g tous les jours
+=== slides\slide18.xml
+Prostatite aiguë, durée de l’antibiothérapie
+14 jours
+=== slides\slide19.xml
+Pyélonéphrite aiguë, diagnostic
+Douleurs lombaires spontanées ou à l’ébranlement + fièvre ou manifestations systémiques d’infection +/- signes de cystite + ECBU positif
+Signes de cystite inconstants
+Si prise en charge ambulatoire :
+Dosage de la créatinine sérique non recommandé sauf facteurs de risque d’insuffisance rénale aiguë (insuffisance rénale chronique, antécédents urologiques, déshydratation, traitements à risque : diurétiques, IEC, AINS, aminosides…)
+Dosage des marqueurs inflammatoires et hémocultures non recommandés
+=== slides\slide20.xml
+Pyélonéphrite aiguë, imagerie
+Scanner abdomino-pelvien injecté systématique dans les 48-72h pour  rechercher une uropathie
+Dans l’attente du scanner, si suspicion de rétention d’urines : bladder scanner ou échographie sus-pubienne en urgence pour un drainage des urines 
+Scanner en urgence si :
+Sepsis ou choc septique
+Douleurs non contrôlées
+Suspicion d’obstacle des voies urinaires (calcul, tumeur…)
+Présence de matériel endo-urétéral
+Insuffisance rénale aiguë
+=== slides\slide21.xml
+Pyélonéphrite aiguë, antibiothérapie initiale (1)
+Absence de signe de gravité
+Traitement initié en milieu hospitalier : céfotaxime IV 3 g/jour OU ceftriaxone IV 1 g/jour
+Traitement initié en ambulatoire : 
+Ceftriaxone IV ou IM ou SC 1 g/jour 
+Ou ciprofloxacine PO 500 mgx2/jour OU lévofloxacine PO 500 mg/jour (en l’absence de prise de fluoroquinolones dans les 6 mois, nausées, vomissements, malabsorption, observance incertaine…) 
+ Sepsis
+Céfotaxime IV 6 g/jour OU ceftriaxone IV 2 g/jour
+ET amikacine 30 mg/kg, dose unique
+=== slides\slide22.xml
+Pyélonéphrite aiguë, antibiothérapie initiale (2)
+Choc septique*
+Si pas de facteurs de risque d’infection à Enterobacterales résistantes aux C3G ** : 
+Céfotaxime IV 6 g/jour OU ceftriaxone IV 2 g/jour
+ET amikacine IV 30 mg/kg, dose unique
+Si au moins 1 facteur de risque d’infection à Enterobacterales résistantes aux C3G** :       								         Imipénème IV 3 g/jour OU méropénème IV 6 g/jour
+    ET amikacine IV 30 mg/kg, dose unique
+*Sepsis + défaillance hémodynamique nécessitant un vasopresseur et lactatémie > 2 mmol/l
+** Patient vivant dans un EHPAD - Infection et/ou colonisation à Enterobacterales résistant aux C3G dans les 3 mois - Voyage à l’étranger dans les 3 mois - Prise de fluoroquinolones, amoxicilline-acide clavulanique ou C3G dans les 3 mois
+=== slides\slide23.xml
+Pyélonéphrite aiguë, antibiothérapie, relais, en fonction de l’antibiogramme (1)
+Relais oral possible, par ordre préférentiel 
+Amoxicilline 1 gx3/jour
+Sulfaméthoxazole-triméthoprime 800/160 mg 1 cpx2/jour
+Amoxicilline-acide clavulanique 1 gx3/jour
+Ciprofloxacine 500 mgx2/jour OU lévofloxacine 500 mg/jour OU ofloxacine 200 mgx2/jour
+Céfixime 200 mgx2/jour
+Si pas de relais oral possible : céfotaxime IV 3 g/jour OU ceftriaxone IV, IM ou SC 1 g/jour
+=== slides\slide24.xml
+Pyélonéphrite aiguë, antibiothérapie, relais en fonction de l’antibiogramme (2)
+Enterobacterales résistantes aux C3G
+Par hyperproduction de céphalosporinase : céfépime IV 4 g/jour OU témocilline IV 6 g/jour
+Par production de BLSE : 
+1er choix, par ordre alphabétique : céfoxitine IV 6 g/jour (seulement si E. coli ou Proteus) OU pipéracilline-tazobactam IV 12 g/jour OU témocilline IV 6 g/jour
+A défaut, par ordre alphabétique : ertapénème IV 1 g/jour OU imipénème IV 3 g/jour OU méropénème IV 3 g/jour 
+ Relais oral, par ordre de préférence : sulfaméthoxazole-triméthoprime PO 800/160 mg 1 cpx2/jour, ciprofloxacine PO 500 mgx2/jour OU lévofloxacine PO 500 mg/jour OU ofloxacine PO 200 mgx2/jour
+=== slides\slide25.xml
+Pyélonéphrite aiguë, durée de l’antibiothérapie
+7 jours : si traitement par béta-lactamine parentérale et/ou fluoroquinolone et/ou sulfaméthoxazole-triméthoprime
+10 jours : si autre(s) antibiotique(s) utilisé(s)
+=== slides\slide26.xml
+Prostatite aiguë, pyélonéphrite aiguë critères d’orientation vers l’hôpital (1)
+Sepsis ou choc septique  soins intensifs
+Risque de sepsis
+Utiliser le score clinique composé de 6 variables (1 point par variable) : 
+Age > 65 ans
+Température > 38°C
+Pression artérielle systolique ≤ 110 mm Hg
+Fréquence cardiaque > 110/min
+Saturation périphérique en O2 ≤ 95%
+Troubles récents des fonctions supérieures 
+ Si score clinique ≥ 3 : 40 % de risque de progression vers un sepsis 
+Obstruction urinaire suspectée ou confirmée
+=== slides\slide27.xml
+Prostatite aiguë, pyélonéphrite aiguë critères d’orientation vers l’hôpital (2)
+Prise orale impossible avec risque de non-observance et de déshydratation (troubles de la déglutition, nausées, vomissements, confusion, agitation, contexte social, isolement)
+Déclin fonctionnel ne permettant pas le maintien à domicile 
+Décompensation de comorbidité(s) nécessitant une hospitalisation 
+Douleur non contrôlée
+=== slides\slide28.xml
+Prostatite aiguë et pyélonéphrite aiguë, allergie contre-indiquant l’utilisation de toute béta-lactamine
+Traitement probabiliste
+Absence de sepsis ou choc septique : 
+Ciprofloxacine PO 500 mgx2/jour OU lévofloxacine PO 500 mg/jour, en l’absence de prise de fluoroquinolone dans les 6 mois
+    - Si contre-indication aux fluoroquinolones :
+      Amikacine IV 30 mg/kg dose unique et avis spécialisé
+Sepsis ou choc septique
+Ciprofloxacine IV 400 mgx3/jour OU lévofloxacine IV 500 mgx2/jour ET Amikacine IV 30 mg/kg dose unique et avis spécialisé 
+=== slides\slide29.xml
+Prostatite aiguë et pyélonéphrite aiguë, allergie contre-indiquant l’utilisation de toute béta-lactamine
+Relais oral par ordre de préférence : 
+Sulfaméthoxazole-triméthoprime PO 800/160 mg 1 cpx2/jour
+Ciprofloxacine PO 500 mgx2/jour OU lévofloxacine PO 500 mg/jour OU ofloxacine PO 200 mgx2/jour
+Fosfomycine-trométamol 3 g tous les jours (uniquement si prostatite)
+Si pas de relais oral possible : avis spécialisé
+=== slides\slide30.xml
+Epididymite aiguë et orchite aiguë, diagnostic
+Diagnostic clinique : tuméfaction, douleur spontanée ou à la palpation de l’épididyme ou du testicule, d’apparition aiguë
+Autres signes cliniques pouvant être associés : fièvre, hydrocèle, érythème et œdème du scrotum, signes de cystite, écoulement urétral 
+Diagnostic différentiel : torsion du cordon spermatique (urgence) 
+ECBU systématique
+Homme sexuellement actif, quel que soit son âge : PCR C. trachomatis et N. gonorrhoeae sur 1er jet d’urine 
+Bilan d’IST en fonction des facteurs de risque
+=== slides\slide31.xml
+Epididymite aiguë et orchite aiguë, imagerie
+Non systématique
+Echographie scrotale recommandée si : 
+Doute diagnostic
+Suspicion d’abcès
+Persistance de la fièvre ou aggravation des signes locaux après 72h d’une antibiothérapie adaptée
+=== slides\slide32.xml
+Epididymite aiguë et orchite aiguëantibiothérapie initiale
+Traitement initié en milieu hospitalier :  
+Céfotaxime IV 3 g/jour OU ceftriaxone IV 1 g/jour
+Traitement initié en ambulatoire : 
+Ceftriaxone IV ou IM ou SC 1 g/jour 
+OU ciprofloxacine PO 500 mgx2/jour OU lévofloxacine PO 500 mg/jour (en l’absence de prise de fluoroquinolones dans les 6 mois)
+Le traitement d’une éventuelle IST n’est pas abordé dans cette recommandation
+=== slides\slide33.xml
+Epididymite aiguë et orchite aiguëantibiothérapie, relais en fonction de l’antibiogramme (1)
+Relais oral possible, par ordre préférentiel 
+Sulfaméthoxazole-triméthoprime 800/160 mg 1 cpx2/jour
+Ciprofloxacine 500 mgx2/jour OU lévofloxacine 500 mg/jour OU ofloxacine 200 mgx2/jour
+Si résistance ou contre-indication à l’association sulfaméthoxazole-triméthoprime et aux fluoroquinolones, après retour à l’apyrexie et par ordre préférentiel : 
+Amoxicilline 1 gx3/jour 
+Amoxicilline-acide clavulanique 1 gx3/jour
+Pas de relais oral possible : céfotaxime IV 3 g/jour OU ceftriaxone IV, IM ou SC 1 g/jour
+=== slides\slide34.xml
+Epididymite aiguë et orchite aiguë antibiothérapie, relais en fonction de l’antibiogramme (2)
+Enterobacterales résistantes aux C3G
+Par hyperproduction de céphalosporinase : céfépime IV 4 g/jour OU témocilline IV 6 g/jour
+Par production de BLSE : 
+1er choix, par ordre alphabétique : céfoxitine IV 6 g/jour (seulement si E. coli ou Proteus) OU pipéracilline-tazobactam IV 12 g/jour OU témocilline IV 6 g/jour
+A défaut, par ordre alphabétique : ertapénème IV 1 g/jour OU imipénème IV 3 g/jour OU méropénème IV 3 g/jour 
+ Relais oral, par ordre de préférence : Sulfaméthoxazole-triméthoprime 800/160 mg 1 cpx2/jour OU ciprofloxacine 500 mgx2/jour OU lévofloxacine 500 mg/jour OU ofloxacine 200 mgx2/jour
+=== slides\slide35.xml
+Epididymite aiguë et orchite aiguë durée de l’antibiothérapie
+10 jours
+=== slides\slide36.xml
+Bilan systématiquedès le 1er épisode d’infection urinaire (1)
+Interrogatoire orienté à la recherche d'une hématurie macroscopique ou de symptômes du bas appareil urinaire (SBAU), existant avant l'infection ou apparus depuis
+Calcul du score IPSS (International Prostate Symptom Score) (https://www.urofrance.org/fileadmin/medias/scores/score-IPSS.pdf)
+ Réalisation d'un calendrier mictionnel si SBAU
+Toucher rectal à distance de l’épisode infectieux pour estimer le volume et la consistance de la prostate
+=== slides\slide37.xml
+Bilan systématiquedès le 1er épisode d’infection urinaire (2) 
+Echographie des voies urinaires avec mesure du résidu post-mictionnel (RPM) 
+Dosage du PSA : non systématique
+Si dosage nécessaire : à réaliser au moins 3 mois après l'infection en tenant compte des indications retenues par les recommandations en vigueur de l'Association Française d'Urologie
+=== slides\slide38.xml
+Consultation en urologie
+Recommandée si : 
+Pyélonéphrite aiguë
+Rétention aiguë d’urine au diagnostic d’infection 
+Hématurie macroscopique
+Score IPSS > 7
+Induration au toucher rectal
+RPM > 100 ml et/ou anomalie(s) urologique(s) sur le bilan d’imagerie
+=== slides\slide39.xml
+ la prostate; âge<40 ans
+RAU: rétention aiguë d’urine; RPM: résidu post mictionnel, IPSS: International Prostate Symptom Score
+          urinaire      
+          urinaire      
+=== slides\slide40.xml
+Groupe de travail
+F. Bruyère, W. Boutfol, Y. Caspar, V. Cattoir, A. Dinh, M. Etienne, E. Forestier, A. Hamon, V. Jullien, M. Lafaurie, A. Lefort, P. Lesprit, F. Lemaitre, H. Milacic, V. Orcel, A. Putot, C. Roubaud, B. Soudais, M. Vallée
