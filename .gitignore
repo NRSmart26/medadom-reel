@@ -1,7 +1,6 @@
 .env
 node_modules/
 travail/
-musique/
 __pycache__/
 # pages et couvertures regenerees par fabrique.py a chaque passage
 reel_*.html

@@ -1,0 +1,143 @@
+/* Reels Medadom Professionnel, version 2 (29/10/2026) : reprend reel.css (fond plein a la couleur
+   des dessins Canva, ombres portees, textes bleu nuit Medadom) et ajoute :
+   - un texte aussi gros que la place le permet : chaque scene recoit une echelle --k (moteur_reel2.js),
+     qui agrandit tout son texte tant que le dessin garde sa place (Romain : « le texte doit etre gros
+     quand on a la place, ils vont voir ca sur un mobile ») ;
+   - les pastilles barrees (ce qui n'est plus recommande) et les grilles de criteres qui se cochent ;
+   - le format carre de LinkedIn (body.carre) : texte a gauche, dessin a droite.
+   Zone sure 9:16 : textes x 96-956, y 300-1600 (recadrage 4:5). Carre : marges de 56 px. */
+@font-face { font-family: Poppins; font-weight: 400; src: url(node_modules/@fontsource/poppins/files/poppins-latin-400-normal.woff2); }
+@font-face { font-family: Poppins; font-weight: 500; src: url(node_modules/@fontsource/poppins/files/poppins-latin-500-normal.woff2); }
+@font-face { font-family: Poppins; font-weight: 600; src: url(node_modules/@fontsource/poppins/files/poppins-latin-600-normal.woff2); }
+@font-face { font-family: Poppins; font-weight: 700; src: url(node_modules/@fontsource/poppins/files/poppins-latin-700-normal.woff2); }
+@font-face { font-family: Poppins; font-weight: 800; src: url(node_modules/@fontsource/poppins/files/poppins-latin-800-normal.woff2); }
+@font-face { font-family: Poppins; font-weight: 600; src: url(node_modules/@fontsource/poppins/files/poppins-latin-ext-600-normal.woff2); unicode-range: U+0100-024F, U+2070-209F; }
+@font-face { font-family: Poppins; font-weight: 800; src: url(node_modules/@fontsource/poppins/files/poppins-latin-ext-800-normal.woff2); unicode-range: U+0100-024F, U+2070-209F; }
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root { --k: 1; }                 /* echelle du texte hors scene (couvertures) ; chaque scene a la sienne */
+html, body { width: 1080px; height: 1920px; overflow: hidden; }
+body.carre, body.carre html { height: 1080px; }
+body { font-family: Poppins, sans-serif; color: var(--encre); background: var(--fond); position: relative; }
+
+/* decor : lumiere douce, trame de points Medadom, grandes formes claires qui derivent */
+.lumiere { position: absolute; inset: 0;
+  background: radial-gradient(1100px 900px at 15% 8%, rgba(255, 255, 255, .30), rgba(255, 255, 255, 0) 70%),
+              radial-gradient(1000px 900px at 95% 100%, var(--ombre-fond), rgba(0, 0, 0, 0) 70%); }
+.trame { position: absolute; inset: 0; opacity: .5;
+  background-image: radial-gradient(rgba(255, 255, 255, .55) 2.4px, transparent 2.7px);
+  background-size: 46px 46px; background-position: 23px 23px;
+  -webkit-mask-image: linear-gradient(180deg, #000 0%, rgba(0, 0, 0, .35) 55%, rgba(0, 0, 0, .1) 100%); }
+.forme { position: absolute; border-radius: 50%; background: var(--clair); filter: blur(10px); opacity: .55; }
+.entete { position: absolute; left: 96px; top: 168px; display: flex; align-items: center; gap: 16px; }
+.entete img { height: 46px; }
+.entete span { background: rgba(255, 255, 255, .7); color: var(--encre); font-weight: 600; font-size: 24px;
+  padding: 4px 14px 6px; border-radius: 10px; }
+/* barre de progression : une graduation par scene, elle avance avec le reel */
+.progression { position: absolute; left: 96px; right: 124px; top: 240px; height: 8px; display: flex; gap: 8px; }
+.progression i { flex: 1; border-radius: 4px; background: rgba(255, 255, 255, .45); overflow: hidden; position: relative; }
+.progression i b { position: absolute; inset: 0; background: var(--encre); transform: scaleX(0); transform-origin: left center; }
+
+.scene { position: absolute; inset: 0; opacity: 0; }
+.colonne { --k: 1; position: absolute; left: 96px; width: 860px; top: 300px;
+  display: flex; flex-direction: column; align-items: flex-start; gap: calc(28px * var(--k)); }
+.etiquette { display: inline-block; background: var(--encre); color: #fff; font-weight: 700;
+  font-size: calc(44px * var(--k)); line-height: 1.2; padding: calc(10px * var(--k)) calc(28px * var(--k)) calc(12px * var(--k));
+  border-radius: calc(16px * var(--k)); box-shadow: 0 10px 24px rgba(31, 22, 80, .22); }
+.titre { font-weight: 800; font-size: calc(90px * var(--k)); line-height: 1.04; letter-spacing: -1.4px; }
+.texte { font-weight: 700; font-size: calc(60px * var(--k)); line-height: 1.2; letter-spacing: -.4px; }
+.note { font-weight: 600; font-size: calc(36px * var(--k)); line-height: 1.2; opacity: .85; margin-top: calc(-10px * var(--k)); }
+.fort { font-weight: 800; font-size: calc(68px * var(--k)); line-height: 1.12; }
+.mot { display: inline-block; white-space: pre; }
+.surligne { position: relative; display: inline-block; color: #fff; padding: 2px 22px 10px; z-index: 0; }
+.surligne::before { content: ""; position: absolute; inset: 0; background: var(--encre); border-radius: 18px;
+  box-shadow: 0 12px 26px rgba(31, 22, 80, .25);
+  transform: rotate(-1.5deg) scaleX(var(--trace, 1)); transform-origin: left center; z-index: -1; }
+.souligne { position: relative; white-space: nowrap; font-weight: 800; }
+.souligne::after { content: ""; position: absolute; left: -4px; right: -4px; bottom: 2px; height: 18px; border-radius: 9px;
+  background: rgba(255, 255, 255, .75); z-index: -1; transform: scaleX(var(--trait, 1)); transform-origin: left center; }
+.pastille { position: relative; background: #fff; border-radius: calc(30px * var(--k)); max-width: 100%;
+  padding: calc(20px * var(--k)) calc(34px * var(--k)) calc(22px * var(--k)) calc(30px * var(--k));
+  font-size: calc(48px * var(--k)); font-weight: 600; line-height: 1.18; display: flex; align-items: center;
+  gap: calc(20px * var(--k));
+  box-shadow: 0 14px 30px rgba(31, 22, 80, .14), 0 2px 6px rgba(31, 22, 80, .08); }
+.pastille::before { content: ""; flex: 0 0 calc(22px * var(--k)); height: calc(22px * var(--k)); border-radius: 50%;
+  background: var(--accent); box-shadow: 0 0 0 calc(7px * var(--k)) var(--accent-pale); }
+.pastille b { font-weight: 800; }
+.pastille.alerte { background: var(--encre); color: #fff; }
+.pastille.alerte::before { background: #fff; box-shadow: 0 0 0 calc(7px * var(--k)) rgba(255, 255, 255, .22); }
+/* pastille barree : ce qui n'est plus recommande ; un trait rouge la raye, une croix remplace le point */
+.pastille.barree::before { display: none; }
+.pastille.barree .croix { flex: 0 0 calc(48px * var(--k)); height: calc(48px * var(--k)); border-radius: 50%;
+  background: var(--rouge); display: flex; align-items: center; justify-content: center; }
+.pastille.barree .croix svg { width: 56%; height: 56%; }
+.pastille.barree .libelle { position: relative; }
+.pastille.barree .trait { position: absolute; left: -6px; right: -6px; top: 52%; height: calc(7px * var(--k));
+  border-radius: 4px; background: var(--rouge); transform: scaleX(0) rotate(-2deg); transform-origin: left center; }
+/* grille de criteres : des cases qui se cochent une a une */
+.criteres { display: grid; grid-template-columns: 1fr 1fr; gap: calc(18px * var(--k)); width: 100%; }
+.critere { background: #fff; border-radius: calc(24px * var(--k)); display: flex; align-items: center;
+  gap: calc(16px * var(--k)); padding: calc(16px * var(--k)) calc(20px * var(--k)) calc(18px * var(--k));
+  font-size: calc(40px * var(--k)); font-weight: 700; line-height: 1.12;
+  box-shadow: 0 12px 26px rgba(31, 22, 80, .13), 0 2px 6px rgba(31, 22, 80, .07); }
+.critere.large { grid-column: 1 / -1; }
+.critere .case { flex: 0 0 calc(50px * var(--k)); height: calc(50px * var(--k)); border-radius: calc(14px * var(--k));
+  border: calc(4px * var(--k)) solid var(--accent); display: flex; align-items: center; justify-content: center;
+  background: #fff; }
+.critere .case svg { width: 74%; height: 74%; overflow: visible; }
+.critere .case path { fill: none; stroke: #fff; stroke-width: 3.4; stroke-linecap: round; stroke-linejoin: round;
+  stroke-dasharray: 24; stroke-dashoffset: 24; }
+.chiffre { font-weight: 800; font-size: calc(250px * var(--k)); line-height: .9; letter-spacing: -8px; color: var(--encre);
+  text-shadow: 0 16px 40px rgba(31, 22, 80, .18); margin: 6px 0 -6px; }
+.chiffre .unite { font-size: .42em; letter-spacing: -1px; margin-left: .12em; }
+.legende { font-weight: 700; font-size: calc(58px * var(--k)); line-height: 1.2; max-width: 100%; }
+.legende b { font-weight: 800; }
+
+/* dessins detoures, ombres portees douces */
+.dessin { position: absolute; left: 0; top: 0; }
+.dessin img { display: block; width: 100%; height: 100%; object-fit: contain;
+  filter: drop-shadow(0 34px 34px rgba(31, 22, 80, .22)) drop-shadow(0 8px 10px rgba(31, 22, 80, .10)); }
+.sol { position: absolute; border-radius: 50%; background: rgba(31, 22, 80, .22); filter: blur(22px); }
+
+/* telephone : un vrai appareil (cadre metallique, ilot, boutons, reflet du verre) */
+.telbloc { position: absolute; }
+.tel { position: relative; width: 372px; height: 764px; border-radius: 62px; padding: 12px;
+  background: linear-gradient(150deg, #5b5e66 0%, #1b1c20 22%, #2d2f35 60%, #5a5d65 100%);
+  box-shadow: 0 50px 80px rgba(31, 22, 80, .32), 0 10px 20px rgba(31, 22, 80, .18), inset 0 0 0 2px rgba(255, 255, 255, .18); }
+.tel .bouton { position: absolute; width: 6px; border-radius: 3px; background: #34363c; }
+.tel .ecran { position: relative; width: 100%; height: 100%; border-radius: 51px; overflow: hidden; background: #fff; }
+.tel .ecran > img { width: 100%; height: 100%; object-fit: cover; }
+.tel .ile { position: absolute; top: 16px; left: 50%; width: 118px; height: 34px; margin-left: -59px;
+  border-radius: 20px; background: #000; z-index: 3; }
+.tel .barre { position: absolute; top: 64px; left: 22px; z-index: 3; display: flex; align-items: center; gap: 10px;
+  background: rgba(31, 22, 80, .88); color: #fff; font-weight: 600; font-size: 20px; padding: 8px 18px 9px 14px;
+  border-radius: 22px; }
+.tel .barre i { width: 12px; height: 12px; border-radius: 50%; background: #4ADE80; display: block; }
+.tel .commandes { position: absolute; bottom: 34px; left: 0; right: 0; z-index: 3; display: flex;
+  justify-content: center; gap: 26px; }
+.tel .commandes span { width: 72px; height: 72px; border-radius: 50%; background: rgba(255, 255, 255, .92);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, .15); display: flex; align-items: center; justify-content: center; }
+.tel .commandes span.raccrocher { background: #E5484D; }
+.tel .reflet { position: absolute; inset: 0; border-radius: 51px; z-index: 4; pointer-events: none;
+  background: linear-gradient(118deg, rgba(255, 255, 255, .22) 0%, rgba(255, 255, 255, .05) 30%, rgba(255, 255, 255, 0) 42%); }
+
+/* carte de fin */
+.fin { position: absolute; left: 96px; width: 888px; top: 0; bottom: 0; display: flex; flex-direction: column;
+  align-items: center; justify-content: center; text-align: center; gap: 26px; }
+.fin .carte { background: #fff; border-radius: 48px; padding: 70px 80px 64px; display: flex; flex-direction: column;
+  align-items: center; gap: 26px; box-shadow: 0 40px 80px rgba(31, 22, 80, .22); }
+.logo { width: 640px; }
+.pro { background: #EEEDF4; color: #1F1650; font-weight: 600; font-size: 42px; padding: 8px 30px 12px;
+  border-radius: 16px; margin-top: -6px; }
+.bio { font-weight: 800; font-size: 50px; margin-top: 30px; color: var(--encre); }
+
+/* ------------------------------------------------ carre LinkedIn (1080 x 1080) */
+body.carre .entete { left: 56px; top: 48px; }
+body.carre .entete img { height: 40px; }
+body.carre .progression { left: 56px; right: 56px; top: 112px; height: 7px; }
+body.carre .colonne { left: 56px; top: 150px; width: 560px; }
+body.carre .colonne.etroite .criteres { grid-template-columns: 1fr; }   /* a cote d'un dessin : une colonne */
+body.carre .chiffre { letter-spacing: -5px; }
+body.carre .fin { left: 56px; width: 968px; }
+body.carre .fin .carte { padding: 56px 64px 50px; }
+body.carre .logo { width: 520px; }
+body.carre .bio { font-size: 42px; margin-top: 10px; }

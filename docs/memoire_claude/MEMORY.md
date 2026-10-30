@@ -1,0 +1,7 @@
+- [Son et voix des reels](son-et-voix-des-reels.md) — voix de synthèse + musique de Romain + bruitages ; 4 voix : homme/femme, jeune/plus âgé(e) ; reels à booster : ton réactif et incrédule, mais pas d'interjection (« Pardon ?! ») en ouverture
+- [Précision médicale](precision-mediale.md) — chaque phrase explicite et exacte (quoi, qui, combien) ; condition jamais coupée, liste officielle mot pour mot
+- [Jamais payant](jamais-payant.md) — aucun abonnement ni outil payant, jamais (02/10/2026) : solutions gratuites seulement
+- [Wording oral](wording-oral.md) — des mots qu'on dit, compris instantanément : jamais « si la date glisse », ni « patients suivis comme médecin traitant » (le patient n'est jamais le médecin traitant), ni raccourci de spécialiste (« L'injection ? Aucun code »)
+- [Reels Medadom en dessins](medadom-reels-dessins.md) — outil séparé `tools/medadom-reel` (lire son CLAUDE.md) ; dessins Canva style Medadom ; texte gros ; scène « quand adresser » ; fin « Rejoignez Medadom » en 2e prise
+- [Référence = pertinence](visuels-reference-pertinence.md) — une référence sert la force du concept, pas le design ; pas de flèche bancale
+- [Moins d'allers-retours](moins-d-allers-retours.md) — 28/10 : juste du premier coup ; public nommé en 1re phrase (« Maîtres de stage : ») ; relecture indépendante du texte avant la voix
