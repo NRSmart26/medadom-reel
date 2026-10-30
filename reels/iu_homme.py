@@ -61,6 +61,8 @@ SCENES = [
     # diagnostic douteux ; sinon trois molecules ; 7 jours, sauf fosfomycine-trometamol (3 doses J1-J3-J5)
     {"voix": "[warm] Des signes urinaires aigus, sans fièvre : c’est une cystite. | Bien tolérée, ou douteuse ? "
              "Attendez l’E.C.B.U.",
+     # diapo 8 : diagnostic clinique, l'ECBU le confirme ; pas de « + ECBU positif » ici, l'etiquette
+     # contredirait « attendre l'ECBU »
      "el": [("etiquette", "Signes urinaires aigus, sans fièvre", 0), ("titre", "Cystite", 0),
             ("pastille", f"Bien tolérée ou douteuse{NB}: <b>attendre l’ECBU</b>", 1)]},
     # AMM : Monuril et Selexid (femme), nitrofurantoine « pas indiquee chez l'homme » (courrier ANSM 2023) ;
@@ -77,7 +79,10 @@ SCENES = [
     {"voix": "[serious] Signes de cystite, avec fièvre ou signes systémiques : c’est une prostatite aiguë. | En "
              "ambulatoire, sans signe de gravité : ceftriaxone, un gramme par jour, en intraveineuse, intramusculaire "
              "ou sous-cutanée… avec une ordonnance infirmière.",
-     "el": [("etiquette", "Signes de cystite + fièvre ou signes systémiques", 0), ("titre", "Prostatite aiguë", 0),
+     # « + ECBU positif » : definitions SPILF de la prostatite (diapo 12) et de la pyelonephrite (diapo 19),
+     # ajoute a l'ecran le 30/10/2026 (review Codex, valide par Romain)
+     "el": [("etiquette", f"Signes de cystite + fièvre ou signes systémiques +{NB}ECBU{NB}positif", 0),
+            ("titre", "Prostatite aiguë", 0),
             ("pastille", f"En ambulatoire, sans gravité{NB}: <b>ceftriaxone 1{NB}g/j</b>, IV, IM ou SC", 1),
             ("pastille", "Avec une ordonnance infirmière", 1),
             ("dessin", d("iu_05_infirmiere"), 1)]},
@@ -96,7 +101,8 @@ SCENES = [
     {"voix": "Douleur lombaire, avec fièvre ou signes systémiques, avec ou sans signes de cystite : c’est une "
              "pyélonéphrite. | Un scanner injecté, systématique, sous quarante-huit à soixante-douze heures. | Et "
              "une consultation d’urologie.",
-     "el": [("etiquette", "Douleur lombaire + fièvre ou signes systémiques", 0), ("titre", "Pyélonéphrite aiguë", 0),
+     "el": [("etiquette", f"Douleur lombaire + fièvre ou signes systémiques +{NB}ECBU{NB}positif", 0),
+            ("titre", "Pyélonéphrite aiguë", 0),
             ("pastille", f"Scanner injecté systématique, <b>sous 48 à 72{NB}h</b>", 1),
             ("pastille", "Consultation d’urologie", 2),
             ("dessin", d("iu_10_lombaire"), 0)]},

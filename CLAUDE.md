@@ -54,7 +54,9 @@ octobre 2026), jugé « magnifique » par Romain. Chaque nouveau reel part de ce
   avec fièvre **ou signes systémiques** » ; « **en ambulatoire, sans signe de gravité** : ceftriaxone ») ; un
   tableau clinique ne se résume jamais à un signe qui en définirait un autre ; une opinion s'attribue. Quand la
   définition officielle comprend un examen (« … + ECBU positif »), le dire aussi, au moins à l'écran (relevé par
-  la review Codex du 30/10/2026 sur le reel de référence, qui ne le disait qu'une fois, en scène 2).
+  la review Codex du 30/10/2026 sur le reel de référence : ajouté à la prostatite et à la pyélonéphrite). Mais
+  seulement là où la source l'écrit : la cystite est un diagnostic clinique que l'ECBU confirme, et « + ECBU
+  positif » y aurait contredit « attendre l'ECBU » (erreur faite puis retirée le même jour).
 - **Des mots qu'on dit, et jamais d'ambiguïté avec la téléconsultation** : « toucher rectal à distance » (sens :
   après l'épisode) se lisait « toucher rectal en téléconsultation » ; écrire « une fois l'infection passée ».
 - **La fin, deux scènes, dans une 2e prise de voix** (`"prise": 2`, ton `[warm]` puis `[excited]`) :
@@ -126,7 +128,20 @@ d'erreurs et de suggestions, chacune avec la citation, la source et une correcti
   se cochent, barre de progression, version carrée.
 - `rendu.py` (vidéo), `planche.py` (contrôle des pages), `dessins.py`, `controle_voix.py`, `voix.py`.
 - `reels/` : un fichier par reel. `sources/<reel>/` : les sources. `dessins/` et `dessins/detoures/`.
-- Non versionnés : `travail/` (voix en cache, sons), `node_modules/` (`npm install`), `.env`, `musique/`.
+- `references/` : les vignettes Medadom de référence (style des dessins, à donner à Canva).
+- `sauvegarde/voix/<reel>/` : les prises de voix déjà payées, copiées hors du cache (voir « Sur un autre PC »).
+- `docs/memoire_claude/` : les règles apprises avec Romain (préférences, refus, voix), copie de la mémoire de
+  Claude Code du PC de travail, à relire au début d'un nouveau reel.
+- `ancien_v1/` : le premier moteur (reels Octobre rose et diabète de type 2, 20/10/2026), gardé pour mémoire.
+- Non versionnés : `travail/` (voix en cache, sons), `node_modules/` (`npm install`), `.env`.
 - Installation : `pip install -r requirements.txt`, `npm install`, ffmpeg dans le PATH, Chrome installé (rendu
-  piloté par Playwright), `.env` avec `ELEVENLABS_API_KEY=`, la musique dans `musique/echo_sax_no4.mp3`.
+  piloté par Playwright), `.env` avec `ELEVENLABS_API_KEY=`.
+
+## Sur un autre PC
+
+1. `git clone`, puis l'installation ci-dessus, et le `.env` (la clé ElevenLabs n'est jamais sur GitHub).
+2. Reprendre les voix payées : copier `sauvegarde/voix/<reel>/*` dans `travail/<reel>/voix/` (le reel `iu`
+   devient `travail/iu/voix/`). Sinon `fabrique.py` régénère la voix et consomme des crédits.
+3. Les livrables (vidéos, couvertures, légendes) s'écrivent dans `~/Downloads/<dossier du reel>` (SORTIE).
+4. Après une nouvelle voix, la copier aussi dans `sauvegarde/voix/<reel>/` et committer.
 - Ancien moteur (reels Octobre rose et diabète, 20/10/2026) : `C:\Users\NR SMART\tools\lcdg-reel-atelier\medadom`.
