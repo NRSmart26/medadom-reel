@@ -5,3 +5,4 @@
 - [Reels Medadom en dessins](medadom-reels-dessins.md) — outil séparé `tools/medadom-reel` (lire son CLAUDE.md) ; dessins Canva style Medadom ; texte gros ; scène « quand adresser » ; fin « Rejoignez Medadom » en 2e prise
 - [Référence = pertinence](visuels-reference-pertinence.md) — une référence sert la force du concept, pas le design ; pas de flèche bancale
 - [Moins d'allers-retours](moins-d-allers-retours.md) — 28/10 : juste du premier coup ; public nommé en 1re phrase (« Maîtres de stage : ») ; relecture indépendante du texte avant la voix
+- [Dépôts GitHub des reels](depots-github-reels.md) — lcdg-reel public ; atelier LCDG, medadom-reel, LP recrutement privés ; vidéos, B-roll et .env hors GitHub
