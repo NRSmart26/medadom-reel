@@ -55,8 +55,12 @@ with sync_playwright() as p:
     cmd = ["ffmpeg", "-v", "error", "-y", "-f", "image2pipe", "-framerate", str(a.fps), "-c:v", "png", "-i", "-"]
     if a.audio:
         cmd += ["-ss", str(a.debut), "-i", a.audio, "-c:a", "aac", "-b:a", "192k", "-shortest"]
+    # la video s'ecrit a cote, puis remplace l'ancienne d'un coup : un fichier livre n'est jamais illisible,
+    # meme pendant un nouveau rendu (Romain n'arrivait plus a lire les videos pendant un rendu, 30/10/2026)
+    sortie = Path(a.sortie)
+    partiel = sortie.with_name(sortie.stem + ".en_cours" + sortie.suffix)
     cmd += ["-c:v", "libx264", "-preset", "slow", "-crf", "16", "-pix_fmt", "yuv420p", "-movflags", "+faststart",
-            a.sortie]
+            str(partiel)]
     ff = subprocess.Popen(cmd, stdin=subprocess.PIPE)
     n = int(round((fin - a.debut) * a.fps))
     for i in range(n):
@@ -68,5 +72,7 @@ with sync_playwright() as p:
     code = ff.wait()
     nav.close()
 if code:
-    sys.exit(f"[!] ffmpeg a echoue (code {code}) : {a.sortie} est absent ou incomplet")
+    partiel.unlink(missing_ok=True)
+    sys.exit(f"[!] ffmpeg a echoue (code {code}) : {a.sortie} n'a pas ete remplace")
+partiel.replace(sortie)
 print(a.sortie)

@@ -5,4 +5,5 @@ __pycache__/
 # pages et couvertures regenerees par fabrique.py a chaque passage
 reel_*.html
 couverture_*.html
+motion_*.html
 *_planche.png

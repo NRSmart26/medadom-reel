@@ -1,0 +1,43 @@
+/* Motion design Medadom (reels courts sans voix, novembre 2026) : socle commun. Chaque piece a sa direction
+   artistique (couleurs, polices, symbole) dans son propre fichier JS ; ici, la page, le grain, l'entete et
+   les classes de texte partagees. Les coordonnees sont celles du cadre 1080 x 1920 (9:16) ou 1080 x 1080
+   (carre, body.carre). */
+@font-face { font-family: Poppins; font-weight: 400; src: url(../node_modules/@fontsource/poppins/files/poppins-latin-400-normal.woff2); }
+@font-face { font-family: Poppins; font-weight: 500; src: url(../node_modules/@fontsource/poppins/files/poppins-latin-500-normal.woff2); }
+@font-face { font-family: Poppins; font-weight: 600; src: url(../node_modules/@fontsource/poppins/files/poppins-latin-600-normal.woff2); }
+@font-face { font-family: Poppins; font-weight: 700; src: url(../node_modules/@fontsource/poppins/files/poppins-latin-700-normal.woff2); }
+@font-face { font-family: Poppins; font-weight: 800; src: url(../node_modules/@fontsource/poppins/files/poppins-latin-800-normal.woff2); }
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body { width: 1080px; height: 1920px; overflow: hidden; }
+html.carre, html.carre body { height: 1080px; }
+body { position: relative; font-family: Poppins, sans-serif; background: var(--fond); color: var(--encre);
+  -webkit-font-smoothing: antialiased; text-rendering: geometricPrecision; }
+
+.calque { position: absolute; inset: 0; }
+#grain { background: url(grain.png); mix-blend-mode: overlay; opacity: var(--grain, .07); pointer-events: none; }
+
+/* entete : logo Medadom (masque, donc de la couleur voulue) et pastille « Professionnel », a la meme
+   hauteur que sur la couverture du reel infection urinaire, pour que les trois epingles s'alignent */
+.entete { position: absolute; left: 0; right: 0; top: 330px; display: flex; justify-content: center;
+  align-items: center; gap: 18px; }
+body.carre .entete { top: 64px; }
+.logo { width: 390px; height: 52px; background: var(--logo, var(--encre));
+  -webkit-mask: url(../photos/medadom/logo_net.png) no-repeat left center / contain;
+  mask: url(../photos/medadom/logo_net.png) no-repeat left center / contain; }
+body.carre .logo { width: 300px; height: 40px; }
+.pro { font: 600 30px/1 Poppins; color: var(--pro-texte, var(--encre)); padding: 13px 16px 11px;
+  border-radius: 10px; background: var(--pro-fond, transparent); border: 2px solid var(--pro-bord, transparent); }
+body.carre .pro { font-size: 23px; padding: 10px 12px 8px; }
+
+/* carte de fin : le grand logo centre et la pastille, comme la fin du reel Octobre rose (Romain, 30/10/2026) */
+.fin { position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: center;
+  align-items: center; gap: 34px; }
+.fin .logo { width: 640px; height: 86px; -webkit-mask-position: center; mask-position: center; }
+.fin .pro { font-size: 38px; padding: 16px 22px 14px; border-radius: 12px; }
+html.carre .fin .logo { width: 520px; height: 70px; }
+html.carre .fin .pro { font-size: 31px; }
+
+/* lettres et mots decoupes pour les entrees en cascade : le masque cache ce qui monte */
+.masque { display: inline-block; overflow: hidden; vertical-align: bottom; padding: .04em .02em .1em; margin: -.04em -.02em -.1em; }
+.l, .m { display: inline-block; will-change: transform; }

@@ -5,7 +5,7 @@ metadata:
   node_type: memory
   type: feedback
   originSessionId: c52333eb-2092-4068-8d6a-41bf40843acc
-  modified: 2026-10-30T12:44:37.013Z
+  modified: 2026-10-30T16:51:19.485Z
 ---
 
 Pour les reels du compte Instagram Medadom Professionnel (médecins généralistes), Romain veut
@@ -45,6 +45,11 @@ s'animent. Outillage : `C:\Users\NR SMART\tools\medadom-reel` (dépôt privé Gi
 `NRSmart26/medadom-reel` depuis le 30/10/2026 ; l'ancien `lcdg-reel-atelier\medadom\` est
 remplacé, archivé dans `ancien_v1/`). Voir [[son-et-voix-des-reels]] et
 [[visuels-reference-pertinence]].
+
+Le 30/10/2026, épingles de novembre (Movember, Mois sans tabac) : reels courts sans voix, « motion design ultra
+travaillé », une direction artistique par thème, deux versions (marque / info), couverture forte, triptyque du
+profil avec le reel IU ; outil `motion.py` du même dépôt. Toujours **une carte de fin avec le logo Medadom**
+(« pour que ce soit pro », comme Octobre rose). Mois sans tabac livré muet (musique ajoutée à la publication).
 
 Le 30/10/2026, « + ECBU positif » ajouté à l'écran pour la prostatite et la pyélonéphrite (définitions
 SPILF), pas pour la cystite : diagnostic clinique, et « attendre l'ECBU » serait devenu contradictoire.

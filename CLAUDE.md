@@ -111,6 +111,8 @@ octobre 2026), jugé « magnifique » par Romain. Chaque nouveau reel part de ce
 - Musique : « Echo Sax No.4 » (`musique/`, 101 s), bouclée avec un fondu quand le reel est plus long, effacée sous
   la voix ; mixage à -14 LUFS.
 - Durée : 2 min à 2 min 45 pour une fiche complète (les reels Medadom migraine et obésité font environ 2 min).
+- `rendu.py` écrit la vidéo dans `<nom>.en_cours.mp4`, puis remplace l'ancienne d'un coup : un livrable reste
+  lisible pendant un nouveau rendu (Romain ne pouvait plus lire ses vidéos pendant un rendu, 30/10/2026).
 - **Rien d'autre dans le dossier pendant un rendu** (~25 min pour les deux formats), ni `--essai`, ni planche, ni
   review Codex : `fabrique.py` réécrit `reel_<nom>_<format>.html`, et le format pas encore lancé chargerait la
   page réécrite (temps estimés sans voix, désynchronisés du son). Le 30/10/2026, une review Codex lancée pendant
@@ -126,9 +128,38 @@ DCI et sigles ; contradictions avec le compte rendu Medadom (à expliquer, pas �
 d'erreurs et de suggestions, chacune avec la citation, la source et une correction. Sur le reel de référence :
 8 erreurs, toutes des conditions coupées ou des nuances.
 
+## Motion design sans voix (épingles du mois)
+
+Pour les reels courts épinglés tout un mois (novembre 2026 : Movember, Mois sans tabac), Romain veut « quelque
+chose de classe », « un motion design ultra travaillé car ce sont des sujets sérieux », pas forcément de voix
+mais une bonne musique, une direction artistique par thème, et une couverture forte (30/10/2026).
+
+- `motion.py <piece> --planche` (contrôle des marges toutes les 0,5 s et planches), puis `motion.py <piece>`
+  (son, 4 vidéos, couvertures dans `~/Downloads/Medadom_novembre_2026`). Une pièce = `motion/<piece>.js` ;
+  `motion/commun.js` et `motion/motion.css` sont le socle (frise, grain, entête, compteurs, contrôle).
+- Deux versions par thème : **marque** (le symbole et le nom, ~12 s) et **info** (un fait sourcé par plan et
+  une ouverture vers la pratique, ~25 s). Une boucle : le dernier plan revient au fond nu du premier.
+- **Toujours une carte de fin Medadom** (`M.carteFin`, dernière mesure) : le grand logo centré et
+  « Professionnel », comme à la fin du reel Octobre rose. Romain, 30/10/2026 : « tu dois ajouter le logo
+  medadom à la fin pour que ce soit pro ».
+- Les temps forts tombent sur les mesures de la musique (`mesure` dans `PIECES`, mesurée sur le fichier) ;
+  la musique part au début d'une section (`debut`), pas au début du fichier.
+- Pas de personnage dessiné à la main : symbole tracé, typographie, transitions. Pas de logo officiel des
+  campagnes (Movember, Mois sans tabac), réservés à leurs partenaires : le nom suffit.
+- Couvertures : les épingles s'affichent côte à côte, recadrées en 3:4 (y de 240 à 1680 en 9:16). L'entête
+  Medadom à la même hauteur que la couverture du reel infection urinaire (y = 330) : le haut du profil se lit
+  comme une campagne. Contrôler l'ensemble sur un montage des trois couvertures.
+- Musique : gratuite et libre d'usage commercial, jamais déposée au Content ID (réclamations sur Instagram).
+  Ou `"musique": "aucune"` : vidéo muette (`…_muette.mp4`), Romain ajoute la musique à la publication (Mois sans
+  tabac, 30/10/2026).
+- GSAP : `tl.set` puis `tl.to`, pas `fromTo`, pour un élément qui doit rester caché jusqu'à son instant
+  (`fromTo` pose ses valeurs de départ dès la construction : l'onde du Mois sans tabac était visible dès t = 0).
+- Bodoni MT (Movember) est une police d'Office : sur un PC sans Office, Chrome prendrait une autre police.
+
 ## Fichiers
 
 - `fabrique.py` : le moteur (voix en deux prises, calage, pauses, couvertures, son, rendu des deux formats).
+- `motion.py`, `motion/` : le motion design sans voix (voir la section ci-dessus).
 - `moteur.js`, `reel.css` : l'animation (GSAP) et la charte ; texte ajusté par scène, pastilles barrées, cases qui
   se cochent, barre de progression, version carrée.
 - `rendu.py` (vidéo), `planche.py` (contrôle des pages), `dessins.py`, `controle_voix.py`, `voix.py`.
