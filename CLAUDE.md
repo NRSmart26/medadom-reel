@@ -111,6 +111,11 @@ octobre 2026), jugé « magnifique » par Romain. Chaque nouveau reel part de ce
 - Musique : « Echo Sax No.4 » (`musique/`, 101 s), bouclée avec un fondu quand le reel est plus long, effacée sous
   la voix ; mixage à -14 LUFS.
 - Durée : 2 min à 2 min 45 pour une fiche complète (les reels Medadom migraine et obésité font environ 2 min).
+- **Rien d'autre dans le dossier pendant un rendu** (~25 min pour les deux formats), ni `--essai`, ni planche, ni
+  review Codex : `fabrique.py` réécrit `reel_<nom>_<format>.html`, et le format pas encore lancé chargerait la
+  page réécrite (temps estimés sans voix, désynchronisés du son). Le 30/10/2026, une review Codex lancée pendant
+  le rendu a ainsi donné un carré de 179,8 s pour un son de 161,6 s : refait seul avec `--format 1x1`. Lancer la
+  review avant ou après le rendu ; `rendu.py` arrête aussi un rendu dont la page ne dure pas comme le son.
 
 ## Relecture indépendante (avant la voix)
 

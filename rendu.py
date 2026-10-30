@@ -32,6 +32,16 @@ with sync_playwright() as p:
     page.goto(scene.as_uri() + "?rendu=1")
     page.wait_for_function("window.PRET === true", timeout=60000)
     duree = page.evaluate("window.TL.duration()")
+    # une page reecrite pendant le rendu (fabrique.py --essai lance a cote, 30/10/2026) garde ses temps estimes
+    # sans voix : la video serait desynchronisee du son
+    if a.audio and a.debut == 0 and a.fin is None:
+        son = subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0",
+                              a.audio], capture_output=True, text=True).stdout.strip()
+        if not son:
+            sys.exit(f"[!] duree illisible : {a.audio}")
+        if abs(float(son) - duree) > 0.1:
+            sys.exit(f"[!] la page dure {duree:.2f} s et le son {float(son):.2f} s : page reecrite pendant le "
+                     "rendu ? Relancer fabrique.py, sans rien d'autre dans le dossier")
     fin = min(a.fin or duree, duree)
     instants = [fin] + [float(x) for x in a.controles.split(",") if x]
     ecarts = []
