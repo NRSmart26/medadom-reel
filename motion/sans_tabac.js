@@ -2,13 +2,13 @@
    vert frais. La cigarette se consume, s'eteint, puis se defait en 30 segments qui forment l'anneau des 30
    jours ; un compteur les allume un a un. Deux versions : « marque » (le symbole et le nom) et « info »
    (trois faits sources : 55 % des fumeurs quotidiens veulent arreter, 30 jours = 5 fois plus de chances,
-   substituts nicotiniques rembourses a 65 % sur prescription).
+   substituts nicotiniques, la plupart rembourses a 65 % par l'Assurance maladie, sur prescription).
    Sources : Sante publique France, communique du 1er octobre 2026 (Barometre 2024 ; 30 jours sans tabac
    multiplient par 5 les chances d'arret a long terme) ; ameli.fr, espace medecin, prise en charge du sevrage
    tabagique (04/12/2025). */
 Motion.demarrer(function (M) {
   const { D, CARRE, tl, noeud, decouper, compteur } = M;
-  const MES = D.mesure, INFO = D.version === "info";
+  const MES = D.mesure, INFO = D.version !== "marque", V = D.temps;
   const R = document.documentElement.style;
   R.setProperty("--fond", "#EAF2EE");
   R.setProperty("--encre", "#1F1650");
@@ -144,14 +144,14 @@ Motion.demarrer(function (M) {
   tl.fromTo(lumiere, { opacity: .7 }, { opacity: 1, duration: D.duree / 4, yoyo: true, repeat: 3, ease: "sine.inOut" }, 0);
 
   // la composition s'efface a S, la carte de fin Medadom occupe les 3 dernieres secondes
-  const S = D.duree - 3.3;
+  const S = V ? V.signature - .55 : D.duree - 3.3;
   if (!INFO) {
     fin();
     return;
   }
 
   // version info : l'anneau se range en badge sous l'entete, le nom s'efface, les plans defilent dessous
-  const TI = T5 + 2.2;
+  const TI = V ? V.p1 - 1.0 : T5 + 2.2;
   const haut = CARRE ? -250 : -340, petit = CARRE ? .34 : .36;
   gsap.set(embleme, { transformOrigin: `${G.cx}px ${G.cy}px` });
   tl.to([titre, dates], { opacity: 0, duration: .4 }, TI - .1)
@@ -176,41 +176,43 @@ Motion.demarrer(function (M) {
 
   // trois plans de meme duree ; le retour final (1 s) se termine 0,6 s avant que la composition s'efface
   const L = (S - 1.6 - (TI + .5)) / 3;
-  const t1 = TI + .5, t2 = t1 + L, t3 = t2 + L, t4 = t3 + L;
+  // les plans se calent sur la voix quand il y en a une (version « voix », D.temps)
+  const t1 = V ? V.p1 - .25 : TI + .5, t2 = V ? V.p2 - .25 : t1 + L, t3 = V ? V.p3 - .25 : t2 + L, t4 = V ? S : t3 + L;
   const p1 = plan(`<div class="gros">55 %</div>
-    <div class="phrase" style="margin-top:18px">des fumeurs quotidiens<br>veulent arrêter de fumer</div>
+    <div class="phrase" style="margin-top:18px">des fumeurs quotidiens<br>souhaitent arrêter de fumer</div>
     <div class="source" style="margin-top:40px">Source : Santé publique France, Baromètre 2024</div>`, t1, t2);
   const g1 = p1.querySelector(".gros");
   apparaitre(g1, t1 + .05); compteur(g1, 0, 55, 1.2, t1 + .05, 0, "power2.out", 0, " %");
-  entrer(p1.querySelector(".phrase"), t1 + .45);
-  apparaitre(p1.querySelector(".source"), t1 + 1.3);
+  entrer(p1.querySelector(".phrase"), V ? V.p1b - .12 : t1 + .45);
+  apparaitre(p1.querySelector(".source"), V ? V.p1b + .8 : t1 + 1.3);
 
   const p2 = plan(`<div class="phrase">30 jours sans tabac :</div>
     <div class="gros" style="margin-top:6px">× 5</div>
     <div class="phrase">les chances d’arrêter<br>à long terme</div>
-    <div class="source" style="margin-top:40px">Source : Santé publique France, 2026</div>`, t2, t3);
+    <div class="source" style="margin-top:40px">Source : Santé publique France, 2026,<br>d’après West et Stapleton, 2008</div>`, t2, t3);
   const [ph2a, ph2b] = p2.querySelectorAll(".phrase");
   entrer(ph2a, t2 + .05);
   gsap.set(p2.querySelector(".gros"), { opacity: 0, scale: .6 });
-  tl.to(p2.querySelector(".gros"), { opacity: 1, scale: 1, duration: .8, ease: "back.out(2.2)" }, t2 + .5);
-  entrer(ph2b, t2 + .95);
-  apparaitre(p2.querySelector(".source"), t2 + 1.6);
+  tl.to(p2.querySelector(".gros"), { opacity: 1, scale: 1, duration: .8, ease: "back.out(2.2)" }, V ? V.p2b - .1 : t2 + .5);
+  entrer(ph2b, V ? V.p2c - .12 : t2 + .95);
+  apparaitre(p2.querySelector(".source"), V ? V.p2c + .6 : t2 + 1.6);
 
   // ameli : « la grande majorite des substituts nicotiniques est remboursee a 65 % » (pas tous : prix libres)
   const p3 = plan(`<div class="etiquette">Substituts nicotiniques</div>
     <div class="phrase" style="margin-top:30px">La plupart remboursés à</div>
     <div class="gros">65 %</div>
-    <div class="phrase">sur prescription</div>
+    <div class="phrase">par l’Assurance maladie,<br>sur prescription</div>
     <div class="source" style="margin-top:40px">Source : ameli.fr</div>`, t3, t4);
   const [ph3a, ph3b] = p3.querySelectorAll(".phrase"), g3 = p3.querySelector(".gros");
   apparaitre(p3.querySelector(".etiquette"), t3 + .05);
-  entrer(ph3a, t3 + .3);
-  apparaitre(g3, t3 + .6); compteur(g3, 0, 65, 1.2, t3 + .6, 0, "power2.out", 0, " %");
-  entrer(ph3b, t3 + 1.1);
-  apparaitre(p3.querySelector(".source"), t3 + 1.6);
+  entrer(ph3a, V ? V.p3a - .12 : t3 + .3);
+  const tg3 = V ? V.p3b - .12 : t3 + .6;
+  apparaitre(g3, tg3); compteur(g3, 0, 65, 1.2, tg3, 0, "power2.out", 0, " %");
+  entrer(ph3b, V ? V.p3c - .12 : t3 + 1.1);
+  apparaitre(p3.querySelector(".source"), V ? V.p3c + .3 : t3 + 1.6);
 
   // retour : l'anneau revient au centre avec son nom, puis la fin
-  tl.to(embleme, { y: 0, scale: 1, duration: 1.0, ease: "power3.inOut" }, t4 - .1)
+  if (!V) tl.to(embleme, { y: 0, scale: 1, duration: 1.0, ease: "power3.inOut" }, t4 - .1)
     .to([titre, dates], { opacity: 1, duration: .5 }, t4 + .5);
   fin();
 

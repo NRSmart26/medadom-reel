@@ -7,7 +7,7 @@
 Motion.exiger("Bodoni MT");
 Motion.demarrer(function (M) {
   const { D, CARRE, tl, noeud, decouper, compteur, trait } = M;
-  const MES = 3.157, INFO = D.version === "info";
+  const MES = 3.157, INFO = D.version !== "marque", V = D.temps;
   const R = document.documentElement.style;
   R.setProperty("--fond", "#0B0918");
   R.setProperty("--encre", "#F2EADB");
@@ -144,9 +144,15 @@ Motion.demarrer(function (M) {
   // version info : l'embleme monte se ranger sous l'entete, les plans defilent dessous
   const haut = CARRE ? -200 : -265, petit = CARRE ? .46 : .56;
   gsap.set(embleme, { transformOrigin: "50% 0%" });
-  tl.to(sous, { opacity: 0, duration: .4 }, 2 * MES - .1)
-    .to(filet, { opacity: 0, duration: .4 }, 2 * MES - .1)
-    .to(embleme, { y: haut, scale: petit, duration: 1.1, ease: "power3.inOut" }, 2 * MES);
+  // les temps des plans : sur les mesures de la musique, ou sur la voix (version « voix », D.temps)
+  const Q = V
+    ? { haut: V.p1 - 1.25, p1: V.p1 - .25, p1b: V.p1b - .12, p2: V.p2 - .3, p2a: V.p2a - .12, av: V.p2b - .2,
+        p2b: V.p2b - .1, p2c: V.p2c - .1, p2d: V.p2d - .1, p3: V.p3 - .3, p3b: V.p3b - .12, fin: V.signature - .55 }
+    : { haut: 2 * MES, p1: 2 * MES + .5, p1b: 2 * MES + 1.35, p2: 3 * MES + .75, p2a: 3 * MES + 1.1, av: 4 * MES - .3,
+        p2b: 4 * MES - .2, p2c: 4 * MES + .5, p2d: 4 * MES + 1.0, p3: 5 * MES, p3b: 5 * MES + .85, fin: 6 * MES + .4 };
+  tl.to(sous, { opacity: 0, duration: .4 }, Q.haut - .1)
+    .to(filet, { opacity: 0, duration: .4 }, Q.haut - .1)
+    .to(embleme, { y: haut, scale: petit, duration: 1.1, ease: "power3.inOut" }, Q.haut);
 
   const plans = [];
   function plan(html, debut, fin) {
@@ -164,44 +170,44 @@ Motion.demarrer(function (M) {
   }
 
   // 3e mesure : les trois causes de Movember
-  const p1 = plan(`<div class="phrase">Prostate, testicules,<br>santé mentale :</div>
-    <div class="serif" style="margin-top:22px">novembre, on en parle.</div>`, 2 * MES + .5, 3 * MES + .75);
-  entrer(p1.querySelector(".phrase"), 2 * MES + .55);
-  entrer(p1.querySelector(".serif"), 2 * MES + 1.35);
+  const p1 = plan(`<div class="phrase">Cancer de la prostate,<br>cancer du testicule,<br>santé mentale et<br>prévention du suicide :</div>
+    <div class="serif" style="margin-top:22px">novembre, on en parle.</div>`, Q.p1, Q.p2);
+  entrer(p1.querySelector(".phrase"), Q.p1 + .05);
+  entrer(p1.querySelector(".serif"), Q.p1b);
 
   // 4e et 5e mesures : le fait, source INCa ; le compteur part sur la 5e mesure
   const p2 = plan(`<div class="etiquette">Cancer de la prostate</div>
     <div class="phrase" style="margin-top:34px">Le plus fréquent<br>chez l’homme</div>
     <div class="avant" style="margin-top:46px">près de</div>
     <div class="chiffre" style="margin-top:6px">60 000</div>
-    <div class="avant" style="margin-top:4px">nouveaux cas par an</div>
-    <div class="source" style="margin-top:34px">Source : INCa, Panorama des cancers en France 2025<br>(prostate : données 2018)</div>`, 3 * MES + .75, 5 * MES);
+    <div class="avant" style="margin-top:4px">nouveaux cas en France en 2018</div>
+    <div class="source" style="margin-top:34px">Source : INCa, Panorama des cancers en France 2025<br>(France métropolitaine, dernières données : 2018)</div>`, Q.p2, Q.p3);
   gsap.set(p2.querySelector(".etiquette"), { opacity: 0, y: 20 });
-  tl.to(p2.querySelector(".etiquette"), { opacity: 1, y: 0, duration: .7, ease: "power3.out" }, 3 * MES + .8);
-  entrer(p2.querySelector(".phrase"), 3 * MES + 1.1);
+  tl.to(p2.querySelector(".etiquette"), { opacity: 1, y: 0, duration: .7, ease: "power3.out" }, Q.p2 + .05);
+  entrer(p2.querySelector(".phrase"), Q.p2a);
   const [av1, av2] = p2.querySelectorAll(".avant"), ch = p2.querySelector(".chiffre"), src = p2.querySelector(".source");
   gsap.set([av1, av2, ch, src], { opacity: 0 });
-  tl.to(av1, { opacity: 1, duration: .5 }, 4 * MES - .3)
-    .fromTo(ch, { opacity: 0, scale: .92 }, { opacity: 1, scale: 1, duration: .9, ease: "power3.out" }, 4 * MES - .2)
-    .to(av2, { opacity: 1, duration: .6 }, 4 * MES + .5)
-    .to(src, { opacity: 1, duration: .6 }, 4 * MES + 1.0);
-  compteur(ch, 0, 600, 1.6, 4 * MES - .2, 0, "power2.out", 100);
+  tl.to(av1, { opacity: 1, duration: .5 }, Q.av)
+    .fromTo(ch, { opacity: 0, scale: .92 }, { opacity: 1, scale: 1, duration: .9, ease: "power3.out" }, Q.p2b)
+    .to(av2, { opacity: 1, duration: .6 }, Q.p2c)
+    .to(src, { opacity: 1, duration: .6 }, Q.p2d);
+  compteur(ch, 0, 600, 1.6, Q.p2b, 0, "power2.out", 100);
 
   // 6e mesure : l'ouverture vers la pratique
   const p3 = plan(`<div class="phrase">En consultation comme<br>en téléconsultation :</div>
-    <div class="serif" style="margin-top:26px">parlons-en.</div>`, 5 * MES, 6 * MES + .4);
-  entrer(p3.querySelector(".phrase"), 5 * MES + .05);
-  entrer(p3.querySelector(".serif"), 5 * MES + .85, "l");
+    <div class="serif" style="margin-top:26px">parlons-en.</div>`, Q.p3, Q.fin);
+  entrer(p3.querySelector(".phrase"), Q.p3 + .05);
+  entrer(p3.querySelector(".serif"), Q.p3b, "l");
 
   // 7e mesure : l'embleme revient au centre ; 8e : la carte de fin
-  tl.to(embleme, { y: 0, scale: 1, duration: 1.1, ease: "power3.inOut" }, 6 * MES + .2)
+  if (!V) tl.to(embleme, { y: 0, scale: 1, duration: 1.1, ease: "power3.inOut" }, 6 * MES + .2)
     .to([sous, filet], { opacity: 1, duration: .6 }, 6 * MES + 1.0);
   fin();
 
   // derniere mesure : la composition s'efface en montant et en se brouillant, la carte de fin Medadom prend sa
   // place, puis s'efface a son tour jusqu'au fond nu du premier plan (la boucle)
   function fin() {
-    const t = D.duree - MES - .3;
+    const t = V ? V.signature - .55 : D.duree - MES - .3;
     tl.to([embleme, entete], { opacity: 0, y: "-=16", filter: "blur(10px)", duration: .9, ease: "power2.in" }, t);
     M.carteFin(t + .35);
   }

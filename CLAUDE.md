@@ -155,6 +155,12 @@ mais une bonne musique, une direction artistique par thème, et une couverture f
 - GSAP : `tl.set` puis `tl.to`, pas `fromTo`, pour un élément qui doit rester caché jusqu'à son instant
   (`fromTo` pose ses valeurs de départ dès la construction : l'onde du Mois sans tabac était visible dès t = 0).
 - Bodoni MT (Movember) est une police d'Office : sur un PC sans Office, Chrome prendrait une autre police.
+- **Voix sur la version info, en carré LinkedIn seulement** (Romain, 03/11/2026) : `motion.py <piece> --voix`
+  (`--essai` ou `--planche` : aucun crédit). Texte dans `PIECES[piece]["voix"]` : (repère, texte lu, pause après) ;
+  la voix commande les plans (`D.temps`), « nom » tombe sur l'entrée du titre, « signature » sur la carte de fin.
+  Laisser au moins 0,9 s après une phrase : le plan commence à s'effacer 0,45 s avant le suivant. Allonger une
+  pause ne coûte rien ; changer un mot régénère la prise (environ 100 crédits). Relecture indépendante d'abord :
+  elle a relevé « par an » pour un chiffre daté de 2018, et « 65 % » sans dire par qui.
 
 ## Fichiers
 
