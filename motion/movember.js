@@ -2,8 +2,8 @@
    editoriale (Bodoni MT), une moustache qui se trace d'un trait puis se remplit d'ivoire, au rythme du saxo
    (Echo Sax No.4, une mesure = 3,157 s). Deux versions : « marque » (3 mesures, le symbole et le nom) et
    « info » (7 mesures : les trois causes de Movember, un fait INCa, l'ouverture vers la pratique).
-   Sources : movember.com/about-us ; INCa, Panorama des cancers en France 2025 (prostate : 59 885 nouveaux
-   cas, cancer le plus frequent chez l'homme). */
+   Sources : movember.com/about-us ; CIRC-OMS, GLOBOCAN 2024 (France metropolitaine : 55 250 nouveaux cas
+   estimes en 2024, 1er cancer de l'homme) ; INCa, Panorama des cancers en France 2026 (9 002 deces en 2023). */
 Motion.exiger("Bodoni MT");
 Motion.demarrer(function (M) {
   const { D, CARRE, tl, noeud, decouper, compteur, trait } = M;
@@ -49,7 +49,8 @@ Motion.demarrer(function (M) {
     html.carre .etiquette { font-size: 24px; padding: 12px 22px 10px; }
     .chiffre { font: 400 230px/1 "Bodoni MT", serif; color: #F2EADB; letter-spacing: -.02em; }
     html.carre .chiffre { font-size: 170px; }
-    .avant { font: 500 42px/1 Poppins; color: rgba(242,234,219,.86); }
+    .avant { font: 500 42px/1.2 Poppins; color: rgba(242,234,219,.86); }
+    html.carre .seul-916 { display: none; }
     html.carre .avant { font-size: 34px; }
     .source { font: 400 26px/1.3 Poppins; color: rgba(242,234,219,.6); }
     html.carre .source { font-size: 21px; }
@@ -178,20 +179,22 @@ Motion.demarrer(function (M) {
   // 4e et 5e mesures : le fait, source INCa ; le compteur part sur la 5e mesure
   const p2 = plan(`<div class="etiquette">Cancer de la prostate</div>
     <div class="phrase" style="margin-top:34px">Le plus fréquent<br>chez l’homme</div>
-    <div class="avant" style="margin-top:46px">près de</div>
-    <div class="chiffre" style="margin-top:6px">60 000</div>
-    <div class="avant" style="margin-top:4px">nouveaux cas en France en 2018</div>
-    <div class="source" style="margin-top:34px">Source : INCa, Panorama des cancers en France 2025<br>(France métropolitaine, dernières données : 2018)</div>`, Q.p2, Q.p3);
+    <div class="avant" style="margin-top:46px">plus de</div>
+    <div class="chiffre" style="margin-top:6px">55 000</div>
+    <div class="avant" style="margin-top:4px">nouveaux cas estimés <br class="seul-916">en France en 2024,</div>
+    <div class="avant" style="margin-top:12px">et 9 002 décès en 2023</div>
+    <div class="source" style="margin-top:34px">Sources : CIRC-OMS, GLOBOCAN 2024 (France métropolitaine) ;<br>INCa, Panorama des cancers en France 2026</div>`, Q.p2, Q.p3);
   gsap.set(p2.querySelector(".etiquette"), { opacity: 0, y: 20 });
   tl.to(p2.querySelector(".etiquette"), { opacity: 1, y: 0, duration: .7, ease: "power3.out" }, Q.p2 + .05);
   entrer(p2.querySelector(".phrase"), Q.p2a);
-  const [av1, av2] = p2.querySelectorAll(".avant"), ch = p2.querySelector(".chiffre"), src = p2.querySelector(".source");
-  gsap.set([av1, av2, ch, src], { opacity: 0 });
+  const [av1, av2, av3] = p2.querySelectorAll(".avant"), ch = p2.querySelector(".chiffre"), src = p2.querySelector(".source");
+  gsap.set([av1, av2, av3, ch, src], { opacity: 0 });
   tl.to(av1, { opacity: 1, duration: .5 }, Q.av)
     .fromTo(ch, { opacity: 0, scale: .92 }, { opacity: 1, scale: 1, duration: .9, ease: "power3.out" }, Q.p2b)
     .to(av2, { opacity: 1, duration: .6 }, Q.p2c)
-    .to(src, { opacity: 1, duration: .6 }, Q.p2d);
-  compteur(ch, 0, 600, 1.6, Q.p2b, 0, "power2.out", 100);
+    .to(av3, { opacity: 1, duration: .6 }, Q.p2d)
+    .to(src, { opacity: 1, duration: .6 }, Q.p2d + .5);
+  compteur(ch, 0, 550, 1.6, Q.p2b, 0, "power2.out", 100);
 
   // 6e mesure : l'ouverture vers la pratique
   const p3 = plan(`<div class="phrase">En consultation comme<br>en téléconsultation :</div>

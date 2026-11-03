@@ -50,6 +50,9 @@ octobre 2026), jugé « magnifique » par Romain. Chaque nouveau reel part de ce
   présentiel) et comment adresser (courrier : démarche et conduite à tenir). Romain : « le rôle du
   téléconsultant c'est de traiter, mais d'adresser vers d'autres professionnels ou l'hôpital dans les cas
   impossibles en téléconsultation, c'est très bien ».
+- **Le chiffre le plus récent** (Romain, 03/11/2026 : « 2018 c'était il y a 8 ans ») : le chercher à la date du
+  jour, et lire son année dans le document d'origine. Source française trop ancienne : regarder le CIRC-OMS
+  (GLOBOCAN), et écrire « estimé » si c'en est un. Jamais « par an » pour le chiffre d'une seule année.
 - **Exactitude médicale** : une définition ou une indication garde sa condition entière (« signes de cystite,
   avec fièvre **ou signes systémiques** » ; « **en ambulatoire, sans signe de gravité** : ceftriaxone ») ; un
   tableau clinique ne se résume jamais à un signe qui en définirait un autre ; une opinion s'attribue. Quand la
@@ -157,8 +160,9 @@ mais une bonne musique, une direction artistique par thème, et une couverture f
 - GSAP : `tl.set` puis `tl.to`, pas `fromTo`, pour un élément qui doit rester caché jusqu'à son instant
   (`fromTo` pose ses valeurs de départ dès la construction : l'onde du Mois sans tabac était visible dès t = 0).
 - Bodoni MT (Movember) est une police d'Office : sur un PC sans Office, Chrome prendrait une autre police.
-- **Voix sur la version info, en carré LinkedIn seulement** (Romain, 03/11/2026) : `motion.py <piece> --voix`
-  (`--essai` ou `--planche` : aucun crédit). Texte dans `PIECES[piece]["voix"]` : (repère, texte lu, pause après) ;
+- **Voix sur la version info seulement, jamais sur la marque** (Romain, 03/11/2026) : `motion.py <piece> --voix`
+  en carré LinkedIn, ajouter `--format 9x16` pour Instagram et Facebook, sur demande (Mois sans tabac) ; `--essai`
+  ou `--planche` : aucun crédit. Une voix de synthèse sur Instagram : étiquette « Info IA » à la publication. Texte dans `PIECES[piece]["voix"]` : (repère, texte lu, pause après) ;
   la voix commande les plans (`D.temps`), « nom » tombe sur l'entrée du titre, « signature » sur la carte de fin.
   Laisser au moins 0,9 s après une phrase : le plan commence à s'effacer 0,45 s avant le suivant. Allonger une
   pause ne coûte rien ; changer un mot régénère la prise (environ 100 crédits). Relecture indépendante d'abord :

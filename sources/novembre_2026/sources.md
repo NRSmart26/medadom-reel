@@ -1,6 +1,6 @@
 # Sources des reels de novembre 2026 (Movember, Mois sans tabac)
 
-Consultées le 30/10/2026, revues le 03/11/2026 (relecture indépendante avant la voix). Chaque affirmation à
+Consultées le 30/10/2026, revues et mises à jour le 03/11/2026 (relecture indépendante avant la voix). Chaque affirmation à
 l'écran, sa source, le passage qui la porte.
 
 ## Movember
@@ -13,13 +13,19 @@ l'écran, sa source, le passage qui la porte.
   prévention du suicide, cancer de la prostate, cancer du testicule ; « Our focus is prevention and early
   action ». Le mouvement est né de quelques amis qui se sont laissé pousser la moustache pour parler de la
   santé des hommes.
-- « Cancer de la prostate : le plus fréquent chez l'homme ; près de 60 000 nouveaux cas en France en 2018 » : INCa,
-  Panorama des cancers en France 2025 (édition des 20 ans), `inca_panorama_cancers_2025.pdf` et son texte
-  extrait. Planche des cancers chez l'homme : prostate 59 885 nouveaux cas, devant le côlon-rectum (26 212)
-  et le poumon (33 438) ; note de bas de planche : « Pour la prostate, les données disponibles datent de
-  2018 » ; fiche prostate : « 1er cancer [...] 59 885 nouveaux cas en 2018 ». La référence de ces chiffres porte
-  sur la France métropolitaine (Defossez et al., Santé publique France, 2019). D'où « en France en 2018 », et
-  jamais « par an », à l'écran comme dans la voix.
+- « Cancer de la prostate : le plus fréquent chez l'homme ; plus de 55 000 nouveaux cas estimés en France en
+  2024 » : CIRC-OMS, GLOBOCAN 2024 (estimations 2024, version 1.0, fiche de septembre 2026),
+  `iarc_globocan_france_metropolitaine.pdf` et son texte extrait,
+  https://gco.iarc.who.int/media/globocan/factsheets/populations/250-france-metropolitan-fact-sheet.pdf :
+  prostate, 1er cancer chez l'homme, 55 250 nouveaux cas en 2024 (24,3 %), en France métropolitaine.
+- « et 9 002 décès en 2023 » : INCa, Panorama des cancers en France, édition 2026,
+  `inca_panorama_cancers_2026.pdf` et son texte extrait ; fiche prostate : « 1er cancer et 2e cause de décès par
+  cancer chez les hommes », « En 2023, 9 002 décès ». Page INCa mise à jour le 17/07/2026 :
+  https://www.cancer.fr/professionnels-de-sante/statistiques-et-chiffres-sur-les-cancers/epidemiologie-des-cancers/cancer-de-la-prostate
+- Pourquoi le CIRC pour les nouveaux cas : l'INCa, même dans son édition 2026, n'a pour la prostate que le chiffre
+  de 2018 (59 885 nouveaux cas, « Pour la prostate, les données disponibles datent de 2018 »). Romain, 03/11/2026 :
+  « 2018 c'était il y a 8 ans ». Les deux chiffres ne viennent pas de la même méthode : ne pas en tirer une baisse.
+  Le mot « estimés » est obligatoire à l'écran et dans la voix.
 
 ## Mois sans tabac
 

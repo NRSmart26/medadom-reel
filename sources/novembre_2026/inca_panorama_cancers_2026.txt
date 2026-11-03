@@ -1,0 +1,2369 @@
+Panorama
+des cancers
+en France
+Édition 2026
+Reg stre  
+N ational  
+des C ancers
+L’Institut national du cancer (INCa), chargé de 
+coordonner la lutte contre les cancers, présente  
+la sixième édition du Panorama des cancers en France. 
+Cette brochure rassemble des données récentes  
+et fiables pour informer le grand public et les 
+professionnels de santé, et éclairer les décideurs  
+et les parties prenantes de la lutte contre les cancers.  
+Elle présente les principaux indicateurs épidémiologiques, 
+de prévention, de dépistage et de soins.
+Cette édition est le fruit d’un travail partenarial avec les 
+principaux producteurs de données de santé collaborant 
+dans le cadre du registre national des cancers piloté par 
+l’Institut national du cancer.
+Panorama
+des cancers
+en France
+Édition 2026
+Clés de lecture pour une bonne interprétation  
+des données de ce Panorama
+4
+8
+10
+14
+16
+19
+22
+23
+24
+25
+26
+27
+28
+29
+30
+32
+33
+DONNÉES ÉPIDÉMIOLOGIQUES,
+PRÉVENTION ET SOINS
+Le registre national des cancers
+Les cancers en chiffres
+Les facteurs de risque
+Les dépistages
+Les soins
+ZOOM SUR 
+QUELQUES LOCALISATIONS
+Les cancers du poumon
+Les cancers du sein
+Les cancers de la prostate
+Les cancers colorectaux
+Les cancers du pancréas
+Les cancers du foie 
+Deux cancers gynécologiques
+Les mélanomes cutanés
+L’Institut national du cancer
+Glossaire
+Références bibliographiques
+3
+Clés de lecture  
+pour une bonne interprétation 
+des données de ce Panorama
+Afin de faciliter la compréhension et l’interprétation des données, 
+graphiques et autres éléments visuels présents dans ce document,  
+il est proposé ici quelques clés de lecture : des définitions,  
+des éléments de méthodologie, etc. 
+QU’EST-CE QUE L’INCIDENCE 
+ET D’OÙ PROVIENNENT LES DONNÉES ? 
+L’incidence correspond au nombre de nouveaux 
+cas d’une pathologie dans une population, ici les 
+cancers, survenant pendant une période donnée, 
+en général l’année. Le taux d’incidence représente  
+le nombre de nouveaux cas rapporté à la 
+population dont sont issus les cas pendant cette 
+même période. Il est souvent calculé en divisant 
+le nombre de cas survenus dans l’année par la 
+taille de la population observée en milieu 
+d’année. Il s’exprime en nombre de personnes 
+pour 100 000 personnes-années (PA). L’incidence 
+fait partie des indicateurs essentiels pour 
+guider la politique nationale de lutte contre 
+les cancers et mesurer l’efficacité des 
+politiques de santé publique.
+Les données d’incidence sont issues des 
+registres locaux des cancers désignés par 
+l’Institut national du cancer. Au total,  
+28 registres locaux couvrent environ 20 à 24 % 
+de la population selon la localisation des cancers :
+• 14 registres généraux (couvrant l’ensemble des 
+localisations cancéreuses) ;
+• 10 registres spécialisés (organe ou entité) ;
+• 4 registres dans les départements et régions 
+d’outre-mer (Guadeloupe, Martinique, Guyane, 
+La Réunion). 
+Les données nationales sont produites à partir 
+de modélisations statistiques des données issues 
+de ces registres. 
+Pour les cancers pédiatriques, 2 registres 
+nationaux produisent des données d’incidence 
+des cancers de l’enfant et de l’adolescent.  
+Leur particularité est de recenser tous les cas  
+de cancers sur le territoire français, y compris 
+ultra-marin.
+POURQUOI LES DONNÉES D’INCIDENCE 
+DES CANCERS NE SONT PAS PUBLIÉES 
+CHAQUE ANNÉE ?
+Le cancer est une maladie qui se développe  
+sur plusieurs mois, voire plusieurs années, 
+contrairement aux maladies infectieuses 
+(gastroentérite, grippe, Covid-19), qui sont de 
+survenue brutale et d’évolution rapide. Certes, 
+certaines formes de cancers (5 à 10 % des cas) 
+peuvent être liées à la présence d’une altération 
+génétique constitutionnelle, c’est-à-dire présente 
+dans toutes les cellules de l’organisme et 
+transmissible à la descendance. Néanmoins, 
+plusieurs facteurs de risque comme l’alcool, le 
+tabac, le surpoids, les facteurs environnementaux 
+ou des produits utilisés en milieu professionnel 
+sont connus pour être à l’origine de certains 
+cancers. Les délais entre l’exposition à ces 
+facteurs et la survenue du cancer se comptent 
+alors en années (de 5 à plus de 20 ans), en dehors 
+de circonstances exceptionnelles. 
+Par conséquent, même s’il est important  
+de surveiller l’évolution des cancers au cours  
+du temps, un recul de quelques années est 
+nécessaire pour appréhender son évolution  
+et permettre de guider les politiques de santé 
+publique.
+4
+QU’EST-CE QUE  
+LA MORTALITÉ ? 
+QU’EST-CE QUE  
+LA PRÉVALENCE ? 
+QU’EST-CE QUE  
+LA VARIATION ANNUELLE 
+MOYENNE (VAM) ? 
+QU’EST-CE QUE LA SURVIE ?
+QU’EST-CE QU’UN TAUX 
+D’INCIDENCE (OU DE 
+MORTALITÉ) STANDARDISÉ 
+SUR LA POPULATION 
+MONDIALE (TSM) ? 
+La mortalité correspond au nombre de décès dans 
+une population survenant pendant une période 
+donnée, en général l’année. Le taux de mortalité 
+représente le nombre de décès rapporté à la 
+population totale moyenne sur une période 
+donnée dans un territoire. Il est souvent calculé  
+en divisant le nombre de décès survenus dans 
+l’année par la taille de la population observée  
+en milieu d’année. Il s’exprime en nombre de 
+personnes pour 100 000 personnes-années (PA).
+La prévalence est un indicateur épidémiologique 
+complémentaire de l’incidence et de la mortalité 
+et correspond au nombre de personnes en vie  
+et ayant eu un diagnostic d’une pathologie 
+considérée, ici le cancer, au cours de leur vie. 
+Les variations annuelles moyennes calculées 
+dans cette édition indiquent le taux d’évolution 
+d’une variable sur une période donnée  
+en tenant compte de l’effet cumulatif des 
+changements d’une année sur l’autre. Dans ce 
+Panorama, la variation annuelle moyenne d’un 
+taux d’incidence (ou de mortalité) standardisé 
+sur la population mondiale est notée « VAM DU 
+TSM ». Par exemple, une mention « VAM DU TSM 
+(2019-2023) : + 3,6 % PAR AN » pour un taux d’incidence 
+des cancers du poumon chez les femmes doit 
+être lue ainsi : entre 2019 et 2023, le taux 
+d’incidence standardisé sur la population 
+mondiale, des cancers du poumon, a augmenté 
+en moyenne de 3,6 % par an chez les femmes.
+C’est la proportion de personnes atteintes 
+d’une maladie, et vivantes X années après  
+le diagnostic. La survie s’exprime en taux, 
+généralement à 1, 3 et 5 ans après le 
+diagnostic. Plusieurs types de survie peuvent 
+être distingués, notamment :
+• la survie brute (observée), qui représente  
+la proportion de personnes encore vivantes 
+X années après le diagnostic de leur maladie, 
+les personnes décédées avant X années 
+pouvant l’être du fait de cette maladie  
+ou d’une autre cause ;
+• la survie nette, qui représente la proportion 
+de personnes encore vivantes X années après 
+leur diagnostic de cancer, si ces personnes 
+ne pouvaient décéder que de ce cancer.  
+Pour contrôler les variations de structure 
+d’âge, elle est standardisée sur l’âge (on parle 
+alors de survie nette standardisée, SNS).  
+Elle est la seule à permettre des comparaisons 
+en fonction de l’âge ou des pays.
+Afin de comparer les données d’incidence  
+(ou de mortalité) d’une année à une autre, ou  
+d’un territoire à un autre, on ne peut se contenter  
+de recenser le nombre de nouveaux cas, car cette 
+information est très dépendante de la taille et de  
+la répartition par âge de la population à un 
+moment donné et sur une zone géographique 
+donnée. Identifier, au sein de l’évolution de 
+l’incidence (ou de la mortalité), ce qui relève 
+effectivement des phénomènes démographiques, 
+de l’évolution du risque d’être atteint d’un cancer 
+(ou de décéder de ce cancer) impose le recours à 
+une information particulière, le taux d’incidence 
+(et de mortalité) standardisé. Il est calculé en 
+supposant que la structure d’âge de la population 
+étudiée est identique à celle d’une population  
+de référence (par exemple la structure d’âge de  
+la population mondiale pour le taux standardisé 
+sur la population mondiale). Ainsi, l’augmentation 
+du taux d’incidence (ou de mortalité) standardisé 
+d’un cancer sur une période reflète directement 
+une hausse du risque d’être atteint (ou de décéder) 
+de ce cancer pendant cette période.
+POUR EN SAVOIR PLUS
+Des définitions complémentaires sont 
+disponibles dans le Glossaire, page 32.  
+Les références bibliographiques sont signalées 
+par des numéros entre crochets, [1], [2], etc.  
+Ils renvoient à la liste complète, page 33.
+5
+
+1
+DONNÉES 
+ÉPIDÉMIOLOGIQUES,
+PRÉVENTION 
+ET SOINS
+Ce premier chapitre présente les données essentielles les plus récentes  
+sur les cancers en France : principaux indicateurs épidémiologiques,  
+de prévalence des expositions aux facteurs de risque et de prévention,  
+et de soins.
+INCIDENCE  •  MORTALITÉ  •  SURVIE  •  PÉDIATRIE  
+FACTEURS DE RISQUE  •  DÉPISTAGES  •  SOINS
+7
+Le registre national  
+des cancers
+L’année 2025 a constitué un tournant dans le domaine  
+de l’épidémiologie des cancers, avec le vote de la loi n°2025-596  
+du 30 juin, portant création d’un registre national des cancers  
+piloté par l’Institut national du cancer. 
+POURQUOI UN REGISTRE NATIONAL  
+DES CANCERS ?
+La surveillance épidémiologique des cancers repose actuellement 
+sur des registres locaux, qui couvrent entre 20 et 24 % de la 
+population métropolitaine selon les localisations cancéreuses. 
+Cette couverture est exhaustive pour les cancers de l’enfant  
+ainsi que pour la population de la Martinique, de la Guadeloupe,  
+de La Réunion et de la Guyane.
+L’objectif du registre national des cancers (RNC) est d’améliorer 
+la couverture nationale du recueil des cas de cancers afin de 
+renforcer la connaissance de la maladie, le suivi des trajectoires 
+des patients et l’évaluation des actions de prévention, de 
+dépistage, de prise en charge et de suivi après-cancer.
+L’Institut national du cancer est le responsable du traitement  
+du RNC. La protection des données personnelles est une priorité : 
+toutes les données collectées sont pseudonymisées pour garantir  
+la confidentialité.
+LES PRINCIPALES SOURCES DE DONNÉES
+Neuf principales sources de données, listées dans le décret, 
+alimenteront régulièrement le RNC, dont huit au moins 
+annuellement, notamment : 
+• les données issues des registres locaux de cancers ;
+• les données issues du système national des données en santé 
+(SNDS) ainsi que des données provenant d’autres bases nationales 
+utiles (causes médicales de décès, urgences, handicap et perte 
+d’autonomie, etc.) ; 
+• les données d’examens de dépistage, de soins, des données 
+cliniques et biologiques spécifiques des cancers.
+L’Institut national du cancer ne collecte pas « toutes » les données  
+de santé, seulement celles nécessaires à la réalisation des objectifs 
+du RNC, dans un cadre réglementaire strict, transparent et 
+parfaitement conforme au RGPD. Les modalités d’application  
+des droits des personnes sont celles identiques au SNDS.
+Recueillir l’ensemble  
+des cas de cancers sur  
+le territoire national 
+Collecter les seules 
+données utiles 
+provenant de 
+différentes sources
+Mettre à disposition  
+des jeux de données 
+appariées et 
+pseudonymisées,  
+à des fins d’études  
+et de recherche, 
+d’observation  
+et de surveillance 
+épidémiologique,  
+et d’orientation des 
+politiques publiques
+3
+Reg stre  
+N ational  
+des C ancers
+PRINCIPAUX  
+OBJECTIFS
+8
+POUR EN SAVOIR PLUS
+L’Institut national du cancer a mis en ligne  
+un webinaire consacré au registre national  
+des cancers. Retrouvez l’intégralité de la 
+présentation sur cancer.fr. Vous pouvez 
+également accéder à la rubrique dédiée  
+au registre national des cancers.
+EN PRATIQUE, COMMENT  
+EST MIS EN ŒUVRE LE RNC ?
+L’Institut national du cancer s’appuie sur 
+l’infrastructure de sa plateforme de données  
+en cancérologie historique, enrichie de sources 
+supplémentaires spécifiques afin de produire 
+une surveillance épidémiologique précise.
+2011. COHORTE CANCER,  
+extraction du système national  
+des données en santé (SNDS)
+Cette extraction est un point de départ 
+puissant, mais en l’absence de données 
+cliniques détaillées et d’une confirmation 
+formelle des cas présumés, elle est 
+insuffisante pour une caractérisation 
+complète des cas de cancers en France.
+2019-2023. PLATEFORME  
+DE DONNÉES EN CANCÉROLOGIE, 
+ajout de sources, dont les registres locaux
+L’ajout des données des 27 registres locaux 
+permet une meilleure qualification des cas 
+de cancers (localisation, comportement, 
+histologie).
+LOI/DÉCRET 2025. REGISTRE 
+NATIONAL DES CANCERS, 
+multisources et appariement
+L’apport multisources spécifiques complète 
+la qualification des cas notamment sur la 
+zone non couverte par les registres locaux  
+et offre une vision plus complète de la 
+trajectoire du patient, du prédiagnostic  
+à la fin de suivi.
+1
+2
+3
+COMMENT ACCÉDER  
+AUX DONNÉES DU RNC ?
+L’Institut national du cancer met à disposition 
+des jeux de données issues du RNC, dans  
+le respect des finalités et des conditions de 
+transparence et de confidentialité prévues par 
+les dispositions réglementaires. Les équipes 
+de recherche, publiques ou privées, pourront 
+accéder à des jeux de données dans le cadre de 
+projets de recherche, d’études ou d’évaluations.
+L’accès pourra se faire dès lors que le projet 
+aura obtenu un avis favorable du comité 
+scientifique et d’éthique du RNC, un avis 
+favorable du CESREES et l’autorisation de  
+la CNIL, le cas échéant.
+L’INSTITUT NATIONAL DU CANCER  
+S’EST VU CONFIER LA MISSION DE PILOTER  
+ET DE METTRE EN PLACE LE REGISTRE 
+NATIONAL DES CANCERS. IL SERA L’UNIQUE 
+RESPONSABLE DE TRAITEMENTS DES 
+DONNÉES DU REGISTRE.
+9
+Les cancers  
+en chiffres
+En France, les cancers représentent la première cause de décès  
+chez l’homme, et la deuxième chez la femme. 
+QUELS SONT LES CANCERS LES PLUS FRÉQUENTS  
+ET COMMENT ÉVOLUE LEUR TAUX D’INCIDENCE ?
+Les dernières estimations décrivent une situation plutôt encourageante 
+chez les hommes alors qu’elle apparaît moins favorable chez les 
+femmes. Pour ces dernières, deux cancers en particulier montrent  
+une augmentation préoccupante : les cancers du poumon et du 
+pancréas. Chez les hommes, l’incidence des cancers les plus fréquents 
+diminue ou se stabilise, à l’exception du cancer du pancréas. 
+ÉVOLUTION DU TAUX D’INCIDENCE  
+STANDARDISÉ MONDE TOUS CANCERS
+274 femmes pour 100 000
+VAM DU TSM (2019-2023) : + 0,25 % par an
+354,9 hommes pour 100 000
+VAM DU TSM (2019-2023) : + 0,06 % par an
+EN 2023, CHEZ LES FEMMES, SUR 187 526 NOUVEAUX CAS
+EN 2023, CHEZ LES HOMMES, SUR 245 610 NOUVEAUX CAS
+1
+2
+3
+4
+2
+2
+1
+1
+3
+3
+Entre 2019 et 2023, le taux 
+d’incidence standardisé monde 
+(TSM), toutes localisations 
+confondues, augmente chez  
+les femmes mais se stabilise 
+chez les hommes [1].
+dont
+43 %
+des femmes,  
+soit 187 526 CAS
+TSM D’INCIDENCE
+274 femmes  
+pour 100 000
+et
+57 %
+des hommes,  
+soit 245 610 CAS
+TSM D’INCIDENCE
+354,9 hommes  
+pour 100 000
+ÂGE MÉDIAN 
+AU DIAGNOSTIC 
+EN 2023
+68 ans
+chez les femmes
+et
+70 ans
+chez les hommes 
+NOUVEAUX CAS 
+DE CANCERS EN 2023
+433 136
+nouveaux cas
+*  Pour la prostate, les données  
+disponibles datent de 2018.
+INCIDENCE
+PROSTATE*. 59 885 cas (24 %)
+VAM DU TSM (2010-2018) : - 1,1 % par an
+POUMON. 33 438 cas (14 %)
+VAM DU TSM (2019-2023) : - 0,3 % par an
+CÔLON ET RECTUM. 26 212 cas (11 %)
+VAM DU TSM (2019-2023) : - 0,3 % par an
+PANCRÉAS. 8 323 cas (3 %)
+VAM DU TSM (2019-2023) : + 1,3 % par an4
+1
+2
+3
+4
+SEIN. 61 214 cas (33 %)
+VAM DU TSM (2019-2023) : + 0,2 % par an
+CÔLON ET RECTUM. 21 370 cas (11 %)
+VAM DU TSM (2019-2023) : + 0,5 % par an
+POUMON. 19 339 cas (10 %)
+VAM DU TSM (2019-2023) : + 3,6 % par an
+PANCRÉAS. 7 668 cas (4 %)
+VAM DU TSM (2019-2023) : + 1,6 % par an4
+10
+dont
+44 %
+des femmes,  
+soit 72 934 DÉCÈS
+TSM MORTALITÉ
+80,2 femmes  
+pour 100 000
+VAM DU TSM (2019-2023) :
+- 0,76 % par an
+et
+56 %
+des hommes,  
+soit 91 380 DÉCÈS
+TSM MORTALITÉ
+1 27, 9  hommes  
+pour 100 000
+VAM DU TSM (2019-2023) :
+- 1,61 % par an
+ÂGE MÉDIAN 
+AU DÉCÈS*
+75 ans
+chez les femmes 
+et
+73 ans
+chez les hommes
+NOMBRE DE DÉCÈS 
+PAR CANCERS EN 2023
+164 314
+décès
+*  Pour l’âge médian au décès, les données 
+disponibles datent de 2018 [2].
+MORTALITÉ
+QUELLES LOCALISATIONS CANCÉREUSES  
+SONT À L’ORIGINE DU PLUS GRAND NOMBRE DE DÉCÈS  
+ET COMMENT ÉVOLUE LE TAUX DE MORTALITÉ ?
+La diminution globale du taux de mortalité s’observe pour de 
+nombreuses localisations, à l’exception du pancréas et du poumon 
+spécifiquement chez les femmes [3]. 
+EN 2023, CHEZ LES HOMMES, SUR 91 380 DÉCÈS
+1
+1
+SEIN. 12 765 décès (17 ,5 %)
+VAM DU TSM (2019-2023) : - 1,5 % par an
+POUMON. 10 699 décès (15 %)
+VAM DU TSM (2019-2023) : - 0,3 % par an
+CÔLON ET RECTUM. 8 007 décès (11 %)
+VAM DU TSM (2019-2023) : - 1 % par an
+PANCRÉAS. 6 730 décès (9 %)
+VAM DU TSM (2019-2023) : + 1,2 % par an
+OVAIRE. 3 420 décès (5 %)
+VAM DU TSM (2019-2023) : - 1,4 % par an
+POUMON. 20 468 décès (22 %)
+VAM DU TSM (2019-2023) : - 2 % par an
+PROSTATE. 9 002 décès (10 %)
+VAM DU TSM (2019-2023) : - 2,2 % par an
+CÔLON ET RECTUM. 8 923 décès (10 %)
+VAM DU TSM (2019-2023) : - 1,7 % par an
+PANCRÉAS. 6 645 décès (7 %)
+VAM DU TSM (2019-2023) : + 0,2 % par an
+FOIE. 6 272 décès (7 %)
+VAM DU TSM (2019-2023) : - 1,3 % par an
+2
+2
+3
+3
+4
+5
+4
+2
+2
+1
+1
+3
+4
+3
+5
+5
+4
+EN 2023, CHEZ LES FEMMES, SUR 72 934 DÉCÈS
+5
+ÉVOLUTION DU TAUX DE MORTALITÉ  
+STANDARDISÉ MONDE TOUS CANCERS
+80,2 femmes pour 100 000
+VAM DU TSM (2019-2023) : - 0,76 % par an
+127 ,9 hommes pour 100 000
+VAM DU TSM (2019-2023) : - 1,61 % par an
+L’évolution annuelle du taux de mortalité standardisé montre une 
+diminution globale de la mortalité par cancer entre 2019 et 2023 [3]. 
+Cette diminution, plus marquée 
+chez les hommes, résulte d’une 
+modification des cancers 
+incidents, de diagnostics plus 
+précoces et d’importantes 
+avancées thérapeutiques parmi 
+les cancers les plus fréquents.
+Remarque : les données de mortalité proviennent du Centre d’épidémiologie  
+sur les causes médicales de décès (CépiDc) [3].
+11
+SURVIE
+La survie des personnes atteintes de cancer est un indicateur clé pour évaluer 
+l’amélioration globale de leur pronostic. Elle est le reflet des progrès thérapeutiques 
+et du dépistage précoce, et permet d’apprécier l’efficacité du système de santé  
+et l’impact des politiques publiques [4].
+POUR QUELS CANCERS OBSERVE-T-ON  
+LA MEILLEURE SURVIE ?
+Ces dernières années, la survie des personnes 
+atteintes de cancer s’est améliorée pour la 
+majorité des localisations. Ces tendances 
+plutôt favorables sont le reflet des progrès 
+réalisés dans le système de soins, à la fois dans 
+la détection des cancers, mais aussi dans leur 
+thérapeutique. Ce gain est néanmoins contrasté 
+selon les localisations et en fonction de l’âge  
+au diagnostic. Sont distingués les cancers de 
+pronostic favorable, ayant une survie nette 
+standardisée (SNS) à 5 ans supérieure à 65 %, 
+et les cancers de pronostic intermédiaire, 
+avec une SNS à 5 ans entre 33 et 65 %.
+SNS À 5 ANS (2010-1015) DES PRINCIPAUX 
+CANCERS DE PRONOSTICS FAVORABLES 
+ET INTERMÉDIAIRES ET ÉVOLUTION 1990-2015
+DE LA SNS
+SNS À 5 ANS (2010-1015) DES PRINCIPAUX
+CANCERS DE MAUVAIS PRONOSTIC 
+ET ÉVOLUTION 1990-2015 DE LA SNS
+QUELS SONT LES CANCERS  
+DE MAUVAIS PRONOSTIC ?
+Certains cancers sont dits « de mauvais pronostic » : 
+poumon, pancréas, œsophage, foie, système 
+nerveux central, leucémies aiguës myéloïdes, 
+ovaire, estomac… Pour ces localisations, et 
+malgré les progrès de la recherche, la survie 
+nette standardisée à 5 ans reste plus faible.
+PROSTATE
++ 21 points de %
+MÉLANOME CUTANÉ
++ 11 points de %
+SEIN
++ 9 points de %
+CÔLON ET RECTUM
++ 12 points de %
+COL DE L’UTÉRUS
+- 3 points de %
+93 %
+93 %
+88 %
+63 %
+63 %
+SYSTÈME NERVEUX  
+CENTRAL
++ 4 points de %
+POUMON
++ 11 points de %
+FOIE
++ 12 points de %
+ŒSOPHAGE
++ 10 points de %
+PANCRÉAS
++ 7 points de %
+26 %
+20 %
+18 %
+17 %
+11 %
+REMARQUE
+Les survies (en %) sont arrondies à l’unité.  
+Les évolutions de points ont été calculées  
+à partir des valeurs exactes et arrondies ensuite.
+12
+LES CANCERS DES ENFANTS,  
+DES ADOLESCENTS ET DES JEUNES ADULTES
+ZOOM SUR LES CANCERS 
+CHEZ LES ADOLESCENTS 
+ET JEUNES ADULTES
+L’incidence des cancers est 
+publiée pour la première 
+fois en France chez les 
+adolescents et jeunes 
+adultes (AJA) de 15 à 39 ans 
+(voir précision ci-contre). 
+Elle porte sur une période 
+supérieure à 20 ans et avec 
+une classification des cancers 
+spécifique pour cette tranche 
+d’âge élargie. Ces travaux ont 
+été menés dans le cadre du 
+partenariat associant Santé 
+publique France, l’Institut 
+national du cancer, le réseau 
+des registres des cancers 
+FRANCIM et les Hospices 
+civils de Lyon, avec le soutien 
+financier de la Ligue contre 
+le cancer.
+Si les cancers chez les AJA 
+restent rares avec une 
+incidence beaucoup moins 
+élevée que chez les plus de 
+60 ans, l’étude montre que 
+l’incidence de l’ensemble  
+des cancers a augmenté de 
+1,62 % par an entre 2000 et 
+2014, puis baissé de 0,79 % 
+par an entre 2015 et 2020. 
+L’incidence de six cancers  
+est en hausse : lymphomes 
+de Hodgkin, glioblastomes, 
+liposarcomes, carcinomes 
+colorectaux, carcinomes du 
+sein et carcinomes du rein. 
+Ces résultats appellent de 
+nouvelles études pour mieux 
+identifier les facteurs de risque 
+sous-jacents responsables  
+de ces tendances afin de 
+promouvoir ou de renforcer  
+la prévention chez les AJA.
+54 735
+adolescents et jeunes 
+adultes (AJA) ayant eu  
+un diagnostic de cancer 
+ont été comptabilisés 
+entre 2000 et 2020 sur  
+les 19 départements 
+étudiés [7]
+SUR LES 1 847 NOUVEAUX CAS EN MOYENNE PAR AN
+1
+2
+3
+4
+5
+2
+1
+35
+LES ENFANTS DE 0 À 14 ANS
+Sur la période 2014-2023, le Registre national des cancers de l’enfant 
+(RNCE) a recensé 18 468 cas de cancers chez les enfants de 0 à 14 ans  
+en France, soit 1 847 nouveaux cas en moyenne chaque année.
+LEUCÉMIES. 517 nouveaux cas (28 %)
+TUMEURS DU SYSTÈME NERVEUX 
+CENTRAL. 487 nouveaux cas (26,4 %)
+LYMPHOMES. 195 nouveaux cas (10,6 %)
+TUMEURS DU SYSTÈME NERVEUX 
+SYMPATHIQUE. 138 nouveaux cas (7 ,5 %)
+SARCOMES DES TISSUS MOUS ET 
+EXTRA-OSSEUX. 112 nouveaux cas (6,1 %)
+SUR LES 450 NOUVEAUX CAS EN MOYENNE PAR AN
+2
+1
+34
+LES ADOLESCENTS DE 15 À 17 ANS
+Sur la période 2014-2023, 4 497 cas de cancers ont été enregistrés chez  
+les 15-17 ans en France, soit 450 nouveaux cas en moyenne chaque année.
+SURVIE DES ENFANTS
+DIAGNOSTIQUÉS 
+ENTRE 2000 ET 2016
+92 %
+un an après  
+le diagnostic
+83 %
+cinq ans après  
+le diagnostic
+1
+2
+3
+4
+SURVIE DES ADOLESCENTS
+DIAGNOSTIQUÉS 
+ENTRE 2000 ET 2016
+94 %
+un an après  
+le diagnostic
+82 %
+cinq ans après  
+le diagnostic
+LYMPHOMES. 135 nouveaux cas (30 %)
+TUMEURS DU SYSTÈME NERVEUX 
+CENTRAL. 75 nouveaux cas (16,7 %)
+LEUCÉMIES. 68 nouveaux cas (15,1 %)
+MÉLANOMES MALINS ET AUTRES 
+TUMEURS MALIGNES ÉPITHÉLIALES.  
+64 nouveaux cas (14,2 %)
+En France, entre 2014 et 2023, ce sont environ 2 300 enfants  
+et adolescents qui ont été touchés chaque année par un cancer [5,6]. 
+4
+PRÉCISION
+Concernant les AJA, la définition internationale porte sur les 15-39 ans.  
+Ainsi, les travaux de recherche et les études internationales épidémiologiques 
+portent sur cette classe d’âge. Relativement à l’organisation des soins, de nombreux 
+pays, dont la France, ciblent les travaux sur les 15-24 ans au regard des spécificités  
+de cette population.
+13
+Les facteurs de risque
+De nombreux facteurs de risque de cancers existent : internes  
+(âge, prédisposition génétique héréditaire) ou externes (comportements, 
+environnement). On estime que près de la moitié des cancers pourraient 
+être évités en limitant l’impact des facteurs de risque externes dans  
+nos vies. Ils peuvent également être influencés par les conditions sociales.  
+Le rôle des déterminants sociaux dans l’exposition aux risques et  
+la survenue des cancers est donc à prendre en compte. 
+LES 4 PRINCIPAUX FACTEURS DE RISQUE
+* Surpoids : IMC compris entre 25 et 29,9 kg/m2
+** Obésité : IMC égal ou supérieur à 30 kg/m2
+PRÈS DE  
+LA MOITIÉ  
+DES CANCERS 
+POURRAIENT  
+ÊTRE ÉVITÉS
+POUMON
+CÔLON-RECTUM
+ALIMENTATION 
+DÉSÉQUILIBRÉE
+CÔLON-RECTUM
+BOUCHE, PHARYNX,  
+LARYNX
+ESTOMAC
+ŒSOPHAGE
+FOIE
+SEIN
+ALCOOL
+8
+LOCALISATIONS
+SEIN
+FOIE
+AUTRES
+ENDOMÈTRE
+PANCRÉAS
+CÔLON-RECTUM
+REIN
+SURPOIDS* 
+ET OBÉSITÉ**
+14
+LOCALISATIONS
+AUTRES
+PANCRÉAS
+POUMON
+BOUCHE, PHARYNX, 
+LARYNX, ŒSOPHAGE
+VESSIE
+TABAC
+17
+LOCALISATIONS
+14
+ALCOOL
+ALIMENTATION
+DÉSÉQUILIBRÉE
+SURPOIDS
+PARTICULES FINES
+TRAITEMENTS 
+HORMONAUX
+RADIATIONS
+IONISANTES
+NE PAS AVOIR 
+ALLAITÉ
+MANQUE D’ACTIVITÉ 
+PHYSIQUE
+RAYONNEMENTS UV*
+EXPOSITIONS 
+PROFESSIONNELLES
+* Ne concerne que les mélanomes.
+TABAC
+PRÈS DE LA MOITIÉ 
+DES CANCERS 
+POURRAIENT ÊTRE ÉVITÉS
+Proportion des cancers liés  
+aux principaux facteurs  
+de risque [8]
+CERTAINES
+INFECTIONS
+8 %
+5,4 %
+5,4 %
+0,4 %
+0,6 %
+1,8 %
+0,5 %
+0,9 %
+3 %
+3 %
+20 %
+4 %
+TABAC
+ALCOOL
+SURPOIDS ET ALIMENTATION
+La diminution du taux de 
+tabagisme quotidien, amorcée  
+en 2016, interrompue lors de la 
+pandémie de Covid-19, reprend 
+depuis 2021. Le recul de 20 années 
+rend compte d’une situation 
+encourageante chez les femmes 
+avec une diminution du taux 
+d’incidence standardisé pour 
+plusieurs localisations [9,10].
+Entre 2020 et 2021, en métropole, 
+la proportion d’adultes dépassant 
+les repères de consommation 
+d’alcool à moindre risque a 
+significativement diminué  
+(de 23,7 % à 22 %). Cette baisse 
+s’observe principalement parmi 
+les hommes, les plus jeunes et les 
+plus âgés, et chez les personnes 
+aux revenus les plus élevés [11,12] .
+Les prévalences de l’obésité et 
+du surpoids, toujours élevées en 
+France, semblent se stabiliser 
+entre 2015 et 2020 chez l’adulte, 
+mais poursuivent leur 
+augmentation chez l’enfant  
+et l’adolescent, ce qui est très 
+préoccupant étant donné que la 
+majorité risque de conserver leur 
+obésité ou surpoids à l’âge 
+adulte [13-17] .
+68 000
+NOUVEAUX CAS DE CANCERS  
+ATTRIBUABLES AU TABAC 
+EN 2015, SOIT 20 % DES CAS
+28 000
+NOUVEAUX CAS DE CANCERS  
+ATTRIBUABLES À L’ALCOOL 
+EN 2015, SOIT 8 % DES CAS
+18 600
+NOUVEAUX CAS DE CANCERS 
+ATTRIBUABLES À LA 
+SURCHARGE PONDÉRALE 
+EN 2015, SOIT 5,4 % DES CAS
+18 %
+c’est la prévalence  
+du tabagisme quotidien, 
+en 2024, parmi les  
+18-75 ans
+- 28 % 
+c’est l’évolution  
+du nombre de fumeurs 
+quotidiens en France 
+entre 2021 et 2024
+22 %
+c’est la proportion,  
+en 2021, des adultes  
+de 18 à 75 ans dépassant 
+les nouveaux repères 
+d’alcool sur au moins 
+une des dimensions
+25 % et 18 %
+c’est la proportion  
+de femmes et d’hommes 
+consommant 5 fruits et 
+légumes par jour
+15
+Les dépistages
+L’objectif du dépistage est de diagnostiquer le cancer à un stade 
+précoce, avant l’apparition de symptômes, afin de mieux le soigner  
+et d’en limiter les séquelles, ainsi que celles des traitements.  
+Depuis 2004, trois programmes de dépistages organisés ont été mis  
+en place : pour les cancers du sein, colorectaux et du col de l’utérus.  
+2025 marque la mise en place d’un programme pilote de dépistage  
+des cancers du poumon nommé IMPULSION (IMPlémentation  
+du dépistage du cancer PULmonaire en populatION).
+LE DÉPISTAGE ORGANISÉ  
+DES CANCERS DU COL DE L’UTÉRUS
+59,5 %
+TAUX DE PARTICIPATION 
+STANDARDISÉ AU 
+PROGRAMME DE DÉPISTAGE 
+SUR LA PÉRIODE 2020-2022
+17,6  millions
+de femmes éligibles  
+de 25 à 65 ans (2020-2022)
+10 470 000 
+personnes dépistées  
+(2020-2022)
+32 000 
+lésions précancéreuses 
+détectées par an
+L’Organisation mondiale de la santé (OMS) rappelle que les cancers 
+du col de l’utérus pourraient être éradiqués grâce au dépistage  
+et à la vaccination contre les papillomavirus humains (HPV).  
+Sur la période 2020-2022, la participation au dépistage organisé  
+des cancers du col de l’utérus était de 59,5 %. Elle est en hausse  
+de +1,3 point par rapport à la période 2017-2019 (58,2 %) et de  
++1,4 point par rapport à la période 2014-2016 (58,1 %) [18,19] .
+PARTICULARITÉ 
+DU DÉPISTAGE 
+ORGANISÉ DES CANCERS 
+DU COL DE L’UTÉRUS
+Dans le cadre de ce dépistage 
+organisé, le courrier d’invitation 
+est uniquement adressé  
+aux femmes ne faisant pas 
+l’examen dans les intervalles 
+recommandés, soit
+11,6 %
+des tests effectués à la suite 
+d’une invitation sur la période 
+2020-2022.
+PRENDRE SOIN DE LA SANTÉ 
+DES FEMMES
+Aujourd’hui, encore 40 % des 
+femmes concernées ne réalisent 
+pas, ou pas tel que recommandé,  
+le dépistage organisé des cancers 
+du col de l’utérus. Il s’agit plus 
+particulièrement des femmes  
+de plus de 50 ans (1 femme sur 2 
+entre 50 et 65 ans ne se fait pas 
+dépister), celles en situation 
+sociale défavorable, les femmes 
+atteintes d’une affection longue 
+durée, d’une forme grave ou 
+invalidante, d’obésité ou les 
+femmes en situation de handicap. 
+Pourtant, le dépistage représente 
+un réel bénéfice pour leur santé.  
+Il permet de repérer le plus tôt 
+possible d’éventuelles lésions 
+précancéreuses, de les surveiller  
+ou de les soigner et ainsi de 
+prévenir l’apparition d’un cancer. 
+Et grâce à ce dépistage, ce sont  
+9 cancers du col de l’utérus sur 10 
+qui pourraient être évités.
+GRÂCE AU DÉPISTAGE 
+RÉGULIER DES FEMMES  
+DE 25 À 65 ANS, ASSOCIÉ  
+À LA VACCINATION DES FILLES 
+ET DES GARÇONS DÈS 11 ANS 
+CONTRE LES PAPILLOMAVIRUS 
+HUMAINS, CE CANCER 
+POURRAIT ÊTRE ÉRADIQUÉ.
+L’OBJECTIF DU DÉPISTAGE  
+EST DE DIAGNOSTIQUER LE 
+CANCER À UN STADE PRÉCOCE, 
+AVANT L’APPARITION DE 
+SYMPTÔMES, AFIN DE MIEUX  
+LE SOIGNER ET D’EN LIMITER 
+LES SÉQUELLES, AINSI QUE 
+CELLES DU TRAITEMENT.
+16
+LE DÉPISTAGE ORGANISÉ  
+DES CANCERS DU SEIN
+LES AVANCÉES ATTENDUES
+Une meilleure détection de certaines lésions précancéreuses 
+du sein grâce à la tomosynthèse (imagerie de lecture de la 
+mammographie en 3D) est attendue. Bien que non autorisée 
+en France dans le dépistage organisé, cette innovation 
+technologique s’est développée dans le cadre de démarches 
+individuelles. Elle permet d’obtenir un cliché numérique 
+reconstitué en trois dimensions à partir d’images du sein 
+(associée à la technologie actuelle 2D ou à partir d’une 
+reconstruction d’image synthétique 2D).
+LE DÉPISTAGE ORGANISÉ  
+DES CANCERS COLORECTAUX
+30,7 %
+TAUX DE PARTICIPATION  
+DE LA POPULATION CIBLE 
+SUR LA PÉRIODE 2024-2025
+46,3 %
+TAUX DE PARTICIPATION 
+STANDARDISÉ  
+DE LA POPULATION CIBLE 
+SUR LA PÉRIODE 2023-2024
+20,9 millions
+de personnes éligibles  
+de 50 à 74 ans 
+(2024-2025)
+6 400 000 
+personnes dépistées  
+dont 31,8 % des femmes  
+et 29,6 % des hommes
+LES AVANCÉES ATTENDUES
+Une plus forte participation au 
+dépistage des cancers colorectaux  
+est attendue au regard des nouvelles 
+modalités d’accès des kits de 
+dépistage, remis par les pharmaciens 
+et disponible à la commande en ligne 
+depuis 2022. De plus, l’Institut 
+national du cancer a lancé des 
+expérimentations d’envoi du kit 
+directement à domicile par voie 
+postale lors de l’invitation  
+au dépistage en vue d’améliorer 
+l’accessibilité au dépistage à terme. 
+Le programme national de dépistage organisé des cancers colorectaux 
+a pour objectif principal de diminuer la mortalité spécifique de ces 
+cancers grâce à une détection et un traitement précoce des lésions.  
+Le taux de participation de la population cible était de 30,7 %  
+pour la période 2024-2025. Ce taux est en légère hausse par rapport 
+à la période précédente (29,6 % en 2023-2024), il reste néanmoins 
+toujours inférieur au seuil européen acceptable de 45 % [18,19] .
+Destiné à dépister le cancer le plus fréquent et le plus mortel chez  
+les femmes, ce programme voit son taux de participation baisser 
+depuis 10 ans pour toutes les tranches d’âge et toutes les régions.  
+Il faut toutefois y ajouter 11 % de la population cible qui effectuent 
+des dépistages individuels. Après avoir connu une augmentation 
+jusqu’à la période 2010-2011, avec une participation de 52,7 %,  
+le taux de participation a ensuite baissé de 12 % jusqu’à la période 
+2023-2024 (46,3 % de participation) [18,19] . 10,8 millions
+de femmes éligibles  
+de 50 à 74 ans 
+(2022-2023)
+41 759 
+cancers du sein  
+détectés (2021-2022)
+LE TEST DE DÉPISTAGE, 
+PROPOSÉ DANS LE CADRE 
+DU PROGRAMME NATIONAL, 
+PERMET DE REPÉRER UN 
+CANCER À UN STADE 
+DÉBUTANT ET DE LE 
+SOIGNER AVEC DES 
+TRAITEMENTS MOINS 
+LOURDS. DANS CE CAS,  
+LES CANCERS COLORECTAUX 
+PEUVENT ÊTRE GUÉRIS  
+9 FOIS SUR 10.
+POUR EN SAVOIR PLUS
+Un espace digital regroupe l’ensemble des informations 
+sur les dépistages organisés des cancers colorectaux,  
+du sein et du col de l’utérus, jefaismondepistage.cancer.fr
+17
+PROGRAMME PILOTE DE DÉPISTAGE  
+DES CANCERS DU POUMON
+DES ÉTUDES* ONT MONTRÉ  
+UNE RÉDUCTION DE 20 À 25 % 
+DE LA MORTALITÉ SPÉCIFIQUE 
+PAR CANCER DU POUMON 
+GRÂCE AU DÉPISTAGE
+En janvier 2025, l’Institut national du cancer a lancé un appel à 
+projets pour la mise en place d’un programme pilote de dépistage  
+des cancers du poumon dont le lauréat est l’étude IMPULSION 
+(IMPlémentation du dépistage du cancer PULmonaire en 
+populatION). Ce projet de recherche est coordonné conjointement 
+par le Pr Marie-Pierre Revel (Assistance publique ‒ Hôpitaux de Paris) 
+et le Pr Sébastien Couraud (Hospices civils de Lyon).
+POUR EN SAVOIR PLUS
+Des informations complémentaires 
+sur le programme IMPULSION  
+sont disponibles sur cancer.fr
+ZOOM SUR L’OUVERTURE 
+DES INCLUSIONS 
+DU PROGRAMME 
+DE RECHERCHE IMPULSION
+En mai 2026, la ministre en 
+charge de la santé a annoncé 
+l’ouverture des inclusions du 
+programme pilote de dépistage 
+des cancers du poumon. 
+Initialement mis en œuvre 
+dans 5 régions pilotes 
+(Île-de-France, Hauts-de- 
+France, Pays de la Loire, 
+Provence-Alpes-Côte d’Azur  
+et Auvergne-Rhône-Alpes),  
+il sera progressivement 
+déployé dans d’autres régions. 
+L’objectif est de recruter  
+20 000 participants volontaires 
+sur une période de 18 à 24 mois. 
+Dans ces 5 régions, plus  
+d’une centaine de professionnels 
+de santé sont d’ores et déjà 
+mobilisés pour les consultations 
+d’inclusion et l’orientation  
+vers l’aide au sevrage tabagique. 
+Dans chaque région, 5 à  
+15 centres de radiologie 
+habilités à réaliser les scanners 
+thoraciques dans le cadre  
+de cette recherche ouvriront 
+progressivement au cours  
+de l’étude.
+IMPULSION : UN PROGRAMME 
+PILOTE PRÉFIGURATEUR  
+D’UN DÉPISTAGE GÉNÉRALISÉ
+Ce programme pilote est l’étape 
+préalable à la généralisation  
+d’un programme de dépistage 
+organisé des cancers du poumon. 
+Son objectif est d’évaluer les 
+conditions optimales d’organisation 
+du dépistage en les adaptant aux 
+spécificités de chaque territoire.  
+Il propose plusieurs modalités 
+d’invitation des personnes et porte 
+une attention particulière aux 
+populations les plus précaires  
+et les plus isolées, avec des actions 
+« d’aller vers » [20,21] .
+LE PROGRAMME EN PRATIQUE
+Le programme IMPULSION 
+s’adresse aux fumeurs et ex-fumeurs 
+de 50 à 74 ans (ayant arrêté depuis 
+moins de 15 ans). Il repose sur la 
+réalisation d’un scanner thoracique 
+à faible dose et la proposition  
+d’un accompagnement au sevrage 
+tabagique. Les participants sont 
+appelés à réaliser deux scanners  
+à un an d’intervalle, puis tous  
+les deux ans. 
+COMBINER DÉPISTAGE  
+ET ARRÊT DU TABAC PERMET  
+DE RÉDUIRE DE 38 % LE RISQUE 
+DE DÉCÈS PAR CANCER  
+DU POUMON
+20 000
+PARTICIPANTS VOLONTAIRES 
+RECRUTÉS SUR UNE PÉRIODE 
+DE 18 À 24 MOIS
+6 M€
+c’est la somme allouée  
+par l’Institut national du cancer  
+au projet pilote IMPULSION
+100 %
+c’est la prise en charge  
+des scanners à faible dose 
+assurée par l’Assurance 
+maladie
+personnes de
+50 à 74 ans
+fumeurs ou ex-fumeurs 
+(sevrés depuis moins de 
+15 ans) dont la consom- 
+mation cumulée de tabac 
+correspond à au moins  
+20 paquets années*
+29
+structures partenaires
+*  Un paquet année correspond à la consommation d’un paquet  
+de 20 cigarettes manufacturées (non roulées) par jour pendant un an,  
+ou deux paquets par jour pendant 6 mois.*  Études internationales NLST et NELSON
+18
+Les soins 
+En 2024, avec près de 1,4 million de personnes traitées 
+spécifiquement pour un cancer en hospitalisations courantes,  
+les cancers pèsent fortement sur l’activité hospitalière.  
+Cela représente une augmentation de 2,5 % par rapport à 2023.
+LES DÉPENSES HOSPITALIÈRES
+TRAITEMENTS DES CANCERS :  
+LES ÉTABLISSEMENTS AUTORISÉS
+Pour pratiquer des activités de traitement du cancer, tous  
+les établissements de santé, qu’ils soient publics ou privés,  
+y compris les centres de radiothérapie libéraux, doivent détenir  
+une autorisation de traitement du cancer délivrée par les Agences 
+régionales de santé. L’objectif est de garantir le même niveau  
+de sécurité, de qualité et d’accessibilité sur l’ensemble du territoire, 
+à tous les patients atteints de cancer.
+POUR EN SAVOIR PLUS
+Une carte interactive de l’offre de soins  
+en cancérologie est disponible sur cancer.fr
+826*
+ÉTABLISSEMENTS  
+AUTORISÉS EN 2024,  
+EN LÉGÈRE DIMINUTION  
+PAR RAPPORT À 2023
+* Base ARHGOS utilisée,  
+1re date de mise en œuvre (MEO)
+Les dépenses hospitalières liées aux cancers (diagnostic, traitement, 
+suivi) sont en constante augmentation. Pour la seule année 2024, 
+c’est près de 7 % d’augmentation par rapport à 2023 [22].
+29,3 Md€
+c’est le poids total  
+de la cancérologie dans  
+les dépenses de l’ONDAM  
+en 2024DÉPENSES LIÉES 
+AUX MÉDICAMENTS 
+ANTICANCÉREUX 
+EN 2024
+1
+2
+DÉPENSES HOSPITALIÈRES LIÉES AU DIAGNOSTIC, 
+AU TRAITEMENT ET AU SUIVI DES PERSONNES 
+ATTEINTES D’UN CANCER EN 2024
+3
+1 SUR LA LISTE EN SUS.  
+5,6 milliards d’euros
+dont 82 % pour les immunothérapies,
++ 14,5 % par rapport à 2023
+EN OFFICINE.  
+4,6 milliards d’euros
+dont 66 % pour les thérapies ciblées,
++ 11,1 % par rapport à 2023
+EN RÉTROCESSION.  
+241 millions d’euros
+dont 61 % pour les immunothérapies,
+- 40,3 % par rapport à 2023
+2
+3
+REMARQUE
+Les dépenses présentées 
+dans ce Panorama sont 
+pour l’essentiel issues de 
+l’exploitation des bases 
+de l’Agence technique de 
+l’information sur l’hospi- 
+talisation (ATIH), donc 
+le reflet des dépenses 
+hospitalières. À partir de 
+la facturation des soins 
+pratiqués en ville et à hôpital 
+dont la Caisse nationale de 
+l’Assurance maladie (CNAM) 
+dispose, elle évalue le poids 
+total de la cancérologie dans 
+les dépenses de l’Objectif 
+national de dépenses 
+d’assurance maladie (ONDAM) 
+à 29,3 milliards d’euros en 2024. 
+Le périmètre de calcul est 
+beaucoup plus large [23]. 
+7,4  Md€
+(hors séances de radiothérapie  
+réalisées dans le secteur privé libéral),  
+soit + 6,9 % par rapport à 2023
+19
+UNE FILIÈRE DE SOINS PLUS ATTRACTIVE
+LES APPROCHES THÉRAPEUTIQUES 
+CONVENTIONNELLES EN ONCOLOGIE
+La démographie médicale en oncologie a connu une croissance importante sur  
+les 15 dernières années. C’est le résultat des orientations du Plan cancer 2003-2007  
+qui prévoyait d’augmenter de 20 % la densité des internes en oncologie, et également  
+de l’effort de renforcement de l’attractivité de la filière oncologie médicale réalisé [24].
+La chirurgie, la radiothérapie et les traitements médicamenteux systémiques 
+constituent les traitements de référence des cancers, formant la base des stratégies 
+thérapeutiques conventionnelles [22].
+1
+2
+LA DÉMOGRAPHIE MÉDICALE 
+EN ONCOLOGIE EN 2024
+3
+1 ANATOMOPATHOLOGISTES. 1 714
++ 1,4 % par rapport à 2023 (1 690 en 2023)
+ONCOLOGUES MÉDICAUX. 1 662
++ 6,5 % par rapport à 2023 (1 561 en 2023)
+ONCOLOGUES RADIOTHÉRAPEUTES. 1 131
++ 3,7 % par rapport à 2023 (1 091 en 2023)
+2
+3
+1,4 million
+c’est le nombre de personnes 
+traitées spécifiquement  
+pour leur cancer en MCO en 2024,  
+soit + 2,5 % par rapport à 2023
+DE NOUVEAUX TRAITEMENTS
+Ces dernières années, à côté des traitements 
+traditionnels, émergent les nouveaux 
+traitements d’immunothérapie spécifique 
+tels que les cellules CAR-T et les inhibiteurs 
+de points de contrôle. Ainsi, en 2023, 
+90 466 patients ont été traités par des 
+inhibiteurs de points de contrôle (+ 21 % par 
+rapport à 2022) et 1 173 par des cellules 
+CAR-T (+ 49,5 % par rapport à 2022).
+1
+2
+RÉPARTITION DES APPROCHES THÉRAPEUTIQUES 
+CONVENTIONNELLES EN 2024
+3
+4
+1 CHIRURGIE CARCINOLOGIQUE.  
+437 735 personnes traitées
++ 1,4 % par rapport à 2023
+TRAITEMENT MÉDICAMENTEUX SYSTÉMIQUE  
+DES CANCERS.  
+403 400 personnes traitées
++ 4,1 % par rapport à 2023
+RADIOTHÉRAPIE EN SECTEUR PUBLIC.  
+137 470 personnes traitées
++ 2,6 % par rapport à 2023
+RADIOTHÉRAPIE EN SECTEUR LIBÉRAL.  
+128 000 personnes traitées
++ 5,8 % par rapport à 2023
+2
+3
+4
+20
+ZOOM SUR 
+QUELQUES 
+LOCALISATIONS
+Les cancers, toutes localisations confondues, constituent un ensemble  
+très hétérogène, aussi bien au niveau des facteurs de risque que de l’histoire naturelle  
+et du pronostic. Ce chapitre s’intéresse plus spécifiquement à certains cancers,  
+parmi les plus fréquents ou de plus mauvais pronostics, au sein de la population.
+POUMON  •  SEIN  •  PROSTATE  •  COLORECTAL  
+PANCRÉAS  •  FOIE  •  OVAIRE  •  COL DE L’UTÉRUS  
+MÉLANOME CUTANÉ
+2
+*  Cause de décès : selon les effectifs du CépiDc  
+et hors catégorie « Autres tumeurs malignes ».
+Les cancers 
+du poumon
+1 37 % des femmes
+soit 19 339 nouveaux cas
+VAM DU TSM (2019-2023) :  
++ 3,6 % par an
+63 % des hommes
+soit 33 438 nouveaux cas
+VAM DU TSM (2019-2023) :  
+- 0,3 % par an
+2
+1 34 % des femmes
+soit 10 699 décès
+VAM DU TSM (2019-2023) :  
+- 0,3 % par an
+66 % des hommes
+soit 20 468 décès
+VAM DU TSM (2019-2023) :  
+- 2 % par an
+2
+1
+2
+EN 2023, SUR 52 777 CAS
+EN 2023, SUR 31 167 DÉCÈS
+1re CAUSE DE DÉCÈS * PAR CANCER  
+CHEZ LES HOMMES
+DIAGNOSTIC
+Seul un diagnostic précoce permet une chirurgie curative,  
+or les cancers du poumon sont souvent diagnostiqués à un stade 
+avancé. Les symptômes n’étant pas spécifiques à cette maladie,  
+le diagnostic précoce est difficile à faire. Le bilan diagnostique 
+repose sur un examen clinique, une radiographie du thorax,  
+un scanner thoracique et une biopsie.
+ACTIONS DE PRÉVENTION
+80 % des cancers du poumon sont attribuables au tabac, premier 
+facteur de risque. Toutes les formes de tabac sont concernées 
+(cigarettes, cigares, cigarillos, narguilé, cannabis, etc.). Le tabagisme 
+passif accroît également le risque de cancers. Arrêter de fumer fait 
+partie du traitement pour réduire le risque de complications pendant 
+et après les traitements, de récidive, de second cancer et pour 
+améliorer la qualité de vie.
+1
+2
+52 777
+NOUVEAUX CAS  
+EN 2023
+31 167
+DÉCÈS EN 2023
+EN 2017 , LA PRÉVALENCE 
+DES CANCERS DU POUMON 
+EST ESTIMÉE À
+169 718
+personnes [25]
+ÂGE MÉDIAN 
+AU DIAGNOSTIC 
+EN 2023
+66 ans
+chez les femmes
+68 ans
+chez les hommes
+SURVIE NETTE STANDARDISÉE 
+À 5 ANS DES PERSONNES
+DIAGNOSTIQUÉES 
+ENTRE 2010 ET 2015
+20 %
+24 % pour les femmes  
+et 18 % pour les hommes
+CANCERS ATTRIBUABLES 
+À LA DÉFAVORISATION 
+SOCIALE EN FRANCE EN 2012
+7 253 cas
+5 614 chez les femmes  
+et 1 639 chez les hommes
+FACTEURS DE RISQUE 
+•  Tabagismes actif et passif
+•  Expositions professionnelles
+•  Pollutions environnementales
+•  Antécédents personnels  
+et familiaux
+3e CANCER LE PLUS FRÉQUENT  
+CHEZ LES FEMMES ET 2e CHEZ LES HOMMES
+22
+Les cancers 
+du sein
+1er CANCER ET 1 re CAUSE DE DÉCÈS * 
+PAR CANCER CHEZ LES FEMMES
+1 En 2023,  
+61 214 nouveaux cas 
+VAM DU TSM (2019-2023) :  
++ 0,2 % par an
+En 2023,  
+12 765 décès 
+VAM DU TSM (2019-2023) :  
+- 1,5 % par an
+2
+DIAGNOSTIC
+60 % des cancers du sein sont détectés à un stade précoce  
+et 7,3 % le sont à un stade métastatique [26]. La détection d’un 
+cancer du sein à un stade peu avancé de son développement permet  
+de le soigner plus facilement, mais aussi de limiter les séquelles  
+liées à certains traitements. 
+Pour favoriser une détection précoce, plusieurs actions existent :  
+suivi particulier des patientes à surrisque, consultation d’un médecin 
+en cas de changement au niveau des seins, examen clinique tous les 
+ans à partir de 25 ans, mammographie de dépistage tous les deux ans 
+entre 50 et 74 ans sans symptôme ni facteur de risque autre que l’âge. 
+Après 74 ans, le dépistage n’est pas abandonné, mais individualisé. 
+Des modalités de suivi spécifiques sont recommandées pour les 
+femmes présentant des antécédents médicaux personnels ou 
+familiaux, ou certaines prédispositions génétiques.
+ACTIONS DE PRÉVENTION
+Parmi les cancers attribuables à la consommation d’alcool, les 
+cancers du sein sont les plus fréquents. Diminuer sa consommation 
+d’alcool, surveiller son poids, arrêter de fumer, bouger et manger 
+varié et équilibré réduisent le risque de développer la maladie.  
+On estime que près de 20 000 cancers du sein pourraient être  
+évités chaque année (soit un tiers des nouveaux cas de cancers  
+pour l’année 2023).
+*  Cause de décès : selon les effectifs du CépiDc  
+et hors catégorie « Autres tumeurs malignes ».
+1
+2
+61 214
+NOUVEAUX CAS  
+EN 2023
+12 765
+DÉCÈS EN 2023
+EN 2017 , LA PRÉVALENCE 
+DES CANCERS DU SEIN 
+EST ESTIMÉE À
+913 089
+personnes [25]
+ÂGE MÉDIAN 
+AU DIAGNOSTIC 
+EN 2023
+64 ans
+SURVIE NETTE STANDARDISÉE 
+À 5 ANS DES PERSONNES 
+DIAGNOSTIQUÉES 
+ENTRE 2010 ET 2015
+88 %
+FACTEURS DE RISQUE
+•  Âge (80 % des cancers du sein  
+se développent après 50 ans)
+•  Antécédents médicaux 
+personnels et familiaux
+•  Consommation d’alcool  
+et de tabac
+•  Surpoids, manque d’activité 
+physique
+•  Certains traitements  
+hormonaux de la ménopause
+•  Prédispositions génétiques
+•  Ne pas avoir allaité
+23
+Les cancers 
+de la prostate
+1er CANCER ET 2 e CAUSE DE DÉCÈS * 
+PAR CANCER CHEZ LES HOMMES
+1 En 2018,  
+59 885 nouveaux cas 
+VAM DU TSM (2010-2018) :  
+- 1,1 % par an
+En 2023,  
+9 002 décès 
+VAM DU TSM (2019-2023) :  
+- 2,2 % par an
+2
+DÉPISTAGE
+80 % des cancers sont diagnostiqués alors qu’ils sont encore localisés 
+à la prostate. Le facteur pronostique majeur de ces cancers est le 
+stade au diagnostic. Le test PSA (Prostate Specific Antigen ou 
+antigène spécifique de la prostate) n’est pas assez fiable pour 
+diagnostiquer un cancer, mais un taux élevé peut inciter à réaliser un 
+examen complémentaire (un toucher rectal, par exemple) qui 
+permettra de poser un diagnostic. Ce dernier peut également faire 
+suite à un traitement chirurgical d’un adénome de la prostate.
+LA SURVEILLANCE ET LES TRAITEMENTS
+Le choix de la stratégie de soins est adapté au cas personnel  
+de chaque patient. Cette stratégie dépend des caractéristiques  
+du cancer, déterminées lors des examens du bilan diagnostique : 
+l’endroit où il est situé, son type histologique (le type de cellules 
+impliquées), son stade, son grade (niveau d’agressivité). Plusieurs 
+traitements peuvent alors être proposés : chirurgie, radiothérapie 
+externe, curiethérapie, hormonothérapie, surveillance active.
+*  Cause de décès : selon les effectifs du CépiDc  
+et hors catégorie « Autres tumeurs malignes ».
+1
+2
+59 885
+NOUVEAUX CAS 
+EN 2018
+9 002
+DÉCÈS EN 2023
+EN 2017 , LA PRÉVALENCE 
+DES CANCERS DE LA PROSTATE
+EST ESTIMÉE À
+643 156
+personnes [25]
+ÂGE MÉDIAN 
+AU DIAGNOSTIC 
+EN 2023
+69 ans
+SURVIE NETTE STANDARDISÉE 
+À 5 ANS DES PERSONNES
+DIAGNOSTIQUÉES 
+ENTRE 2010 ET 2015
+93 %
+FACTEURS DE RISQUE
+•  Antécédents médicaux familiaux
+•  Prédispositions génétiques 
+populationnelles (population 
+afro-antillaise, par exemple)
+24
+Les cancers 
+colorectaux
+2e CANCER LE PLUS FRÉQUENT  
+CHEZ LES FEMMES ET 3e CHEZ LES HOMMES
+1 45 % des femmes
+soit 21 370 nouveaux cas
+VAM DU TSM (2019-2023) :  
++ 0,5 % par an
+55 % des hommes
+soit 26 212 nouveaux cas
+VAM DU TSM (2019-2023) :  
+- 0,3 % par an
+2
+1 47 % des femmes
+soit 8 007 décès
+VAM DU TSM (2019-2023) :  
+- 1 % par an 
+53 % des hommes
+soit 8 923 décès
+VAM DU TSM (2019-2023) :  
+- 1,7 % par an
+2
+1
+2
+EN 2023, SUR 47 582 CAS
+EN 2023, SUR 16 930 DÉCÈS
+3e CAUSE DE DÉCÈS PAR CANCER  
+CHEZ LES FEMMES ET LES HOMMES
+DÉPISTAGE
+S’il est détecté tôt, un cancer colorectal se guérit dans 9 cas sur 10. 
+Dépister ce cancer est désormais plus facile grâce au test immunologique. 
+Il s’adresse aux femmes et aux hommes âgés de 50 à 74 ans, invités, 
+tous les 2 ans, à réaliser un test simple (remis par les pharmaciens  
+et disponible à la commande en ligne depuis 2022). 
+ACTIONS DE PRÉVENTION
+En 2015, 21 % des cancers colorectaux (hors cancers de l’anus) chez  
+les plus de 30 ans sont directement liés à la consommation d’alcool. 
+Plusieurs facteurs de risque modifiables en lien avec les comportements 
+et habitudes de vie ont été identifiés : la consommation d’alcool  
+et de tabac, la sédentarité, l’inactivité physique, le surpoids et 
+l’obésité, une alimentation pauvre en fibres, mais riche en viande 
+rouge ou en charcuteries.
+1
+2
+47 582
+NOUVEAUX CAS  
+EN 2023
+16 930
+DÉCÈS EN 2023
+EN 2017 , LA PRÉVALENCE 
+DES CANCERS COLORECTAUX 
+EST ESTIMÉE À
+418 491
+personnes [25]
+ÂGE MÉDIAN 
+AU DIAGNOSTIC 
+EN 2023
+72 ans
+chez les femmes
+71 ans
+chez les hommes
+SURVIE NETTE STANDARDISÉE 
+À 5 ANS DES PERSONNES
+DIAGNOSTIQUÉES 
+ENTRE 2010 ET 2015
+63 %
+65 % pour les femmes  
+et 62 % pour les hommes
+FACTEURS DE RISQUE
+•  Âge
+•  Habitudes de vie (alcool,  
+tabac, alimentation, surpoids  
+et obésité, inactivité 
+physique…)
+•  Présence de polypes
+•  Antécédents personnels  
+et familiaux
+•  Syndrome de Lynch ou HNPCC
+•  Polypose adénomateuse  
+familiale
+•  Maladies inflammatoires
+25
+Les cancers 
+du pancréas
+15 991
+NOUVEAUX CAS  
+EN 2023
+13 375
+DÉCÈS EN 2023
+ÂGE MÉDIAN 
+AU DIAGNOSTIC 
+EN 2023
+71 ans
+chez les femmes
+74 ans
+chez les hommes
+SURVIE NETTE STANDARDISÉE 
+À 5 ANS DES PERSONNES
+DIAGNOSTIQUÉES 
+ENTRE 2010 ET 2015
+11 %
+CANCERS ATTRIBUABLES 
+À LA DÉFAVORISATION 
+SOCIALE EN FRANCE EN 2012
+117 cas
+chez les hommes
+FACTEURS DE RISQUE
+•  Tabagisme
+•  Surpoids et obésité
+•  Prédispositions génétiques  
+et formes familiales
+INCIDENCE EN 2023
+1 48 % des femmes
+soit 7 668 nouveaux cas
+VAM DU TSM (2019-2023) :  
++ 1,6 % par an
+52 % des hommes
+soit 8 323 nouveaux cas
+VAM DU TSM (2019-2023) :  
++ 1,3 % par an
+2
+1 50 % des femmes
+soit 6 730 décès
+VAM DU TSM (2019-2023) :  
++ 1,2 % par an 
+50 % des hommes
+soit 6 645 décès
+VAM DU TSM (2019-2023) :  
++ 0,2 % par an
+2
+1
+2
+EN 2023, SUR 15 991 CAS
+EN 2023, SUR 13 375 DÉCÈS
+MORTALITÉ EN 2023
+DIAGNOSTIC
+10 à 20 % des patients seulement sont diagnostiqués à un stade  
+où la tumeur est résécable. Le plus souvent, les cancers du pancréas 
+sont diagnostiqués à un stade évolué, car ils restent longtemps 
+asymptomatiques. Lorsque des cellules cancéreuses se développent 
+sur le pancréas, elles se multiplient d’abord de manière silencieuse 
+avant de former une tumeur qui finit par grandir et perturber  
+le fonctionnement de l’organe et de son environnement.
+ACTIONS DE PRÉVENTION
+Le tabagisme est le principal facteur de risque connu des cancers  
+du pancréas. Même durant le parcours de soins, l’arrêt du tabac 
+influence positivement la tolérance aux traitements et le pronostic 
+de la maladie. Il convient de prévenir le surpoids et l’obésité grâce  
+à une alimentation équilibrée (riche en fruits et légumes, en produits 
+céréaliers complets, sans excès de viandes, de charcuteries…),  
+de limiter les aliments gras et sucrés et de pratiquer une activité 
+physique régulière.
+1
+2
+26
+Les cancers 
+du foie
+INCIDENCE EN 2023
+1 24 % des femmes
+soit 2 784 nouveaux cas
+VAM DU TSM (2019-2023) :  
++ 2 % par an
+76 % des hommes
+soit 8 874 nouveaux cas
+VAM DU TSM (2019-2023) :  
+0 % par an
+2
+1 30 % des femmes
+soit 2 633 décès
+VAM DU TSM (2019-2023) :  
++ 0,73 % par an
+70 % des hommes
+soit 6 272 décès
+VAM DU TSM (2019-2023) :  
+- 1,3 % par an
+2
+1
+2
+EN 2023, SUR 11 658 CAS
+EN 2023, SUR 8 905 DÉCÈS
+MORTALITÉ* EN 2023
+DÉPISTAGE
+Un cancer du foie apparaît le plus souvent sur un foie déjà fragilisé, 
+généralement par une cirrhose alcoolique ou une hépatite virale.  
+La découverte d’un cancer du foie se fait souvent lors du suivi  
+de cette maladie. Le cancer peut aussi être découvert chez une 
+personne en bonne santé, mais les symptômes de la maladie  
+sont alors tardifs et peu spécifiques de ce cancer.
+ACTIONS DE PRÉVENTION
+Une consommation répétée, et prolongée sur le long terme,  
+de boissons alcoolisées peut endommager le foie et provoquer une 
+cirrhose. Celle-ci augmente alors fortement le risque de développer 
+un cancer du foie. En cas de consommation excessive d’alcool,  
+il est important de déterminer l’état du foie. 
+Une surveillance régulière et adaptée permet de prévenir et  
+de détecter précocement les complications, dont le cancer.  
+Il est conseillé de ne pas dépasser 10 verres par semaine, 2 verres  
+par jour et de respecter au moins 2 jours sans alcool par semaine.
+1
+2
+11 658
+NOUVEAUX CAS  
+EN 2023
+8 905
+DÉCÈS EN 2023
+ÂGE MÉDIAN 
+AU DIAGNOSTIC 
+EN 2023
+73 ans
+chez les femmes
+70 ans
+chez les hommes
+SURVIE NETTE STANDARDISÉE 
+À 5 ANS DES PERSONNES
+DIAGNOSTIQUÉES 
+ENTRE 2010 ET 2015
+18 %
+19 % pour les femmes  
+et 18 % pour les hommes
+CANCERS ATTRIBUABLES 
+À LA DÉFAVORISATION 
+SOCIALE EN FRANCE EN 2012
+849 cas
+252 chez les femmes  
+et 597 chez les hommes
+FACTEURS DE RISQUE
+•  Consommation d’alcool  
+et tabagisme
+•  Hépatites B et C
+•  Hémochromatose
+•  Stéatose hépatique
+•  Surpoids
+•  Sédentarité
+*  Des cancers du foie et des voies biliaires.
+27
+Deux cancers 
+gynécologiques
+(ovaire, col de l’utérus)
+CANCERS DE L’OVAIRE, 
+INCIDENCE ET MORTALITÉ
+CANCERS DU COL DE L’UTÉRUS, 
+INCIDENCE ET MORTALITÉ
+1
+1
+En 2023,  
+5 348 nouveaux cas 
+VAM DU TSM (2019-2023) : 
+- 0,8 % par an
+En 2023,  
+3 420 décès 
+VAM DU TSM (2019-2023) : 
+- 1,4 % par an
+En 2023,  
+3 159 nouveaux cas 
+VAM DU TSM (2019-2023) :  
+0 % par an
+En 2023,  
+755 décès* 
+VAM DU TSM (2019-2023) :  
+- 3 % par an
+2
+2
+DÉPISTAGE ET PRÉVENTION
+CANCERS DE L’OVAIRE : les cancers de l’ovaire provoquent  
+peu de symptômes. Ainsi, la grande majorité des patientes sont 
+diagnostiquées à un stade avancé de leur cancer. Certains facteurs 
+sont considérés comme protecteurs : la contraception orale,  
+la grossesse, la ligature ou l’ablation des trompes.
+CANCERS DU COL DE L’UTÉRUS : 90 % des cancers du col de l’utérus 
+peuvent être évités grâce au dépistage des lésions précancéreuses.  
+La vaccination des filles et des garçons âgés de 11 à 14 ans permet  
+de se protéger contre les papillomavirus humains (HPV), principal 
+facteur de risque de ces cancers.
+1
+1
+2
+2
+*  Remarque : les décès par cancers du col et du corps de l’utérus ne peuvent être directement 
+extraits des données de mortalité du CépiDc. En effet, les cas « utérus SAI » (sans autre 
+indication) ne sont pas reclassés. En 2022, on recense 836 décès par cancer du col de l’utérus 
+et 2 958 pour d’autres localisations utérines, incluant les « utérus SAI ».
+ÂGE MÉDIAN 
+AU DIAGNOSTIC 
+EN 2023
+70 ans
+ovaire
+55 ans
+col de l’utérus
+SURVIE NETTE STANDARDISÉE 
+À 5 ANS DES PERSONNES
+DIAGNOSTIQUÉES 
+ENTRE 2010 ET 2015
+43 %
+ovaire
+63 %
+col de l’utérus
+CANCERS ATTRIBUABLES 
+À LA DÉFAVORISATION 
+SOCIALE EN FRANCE EN 2012
+640 cas
+FACTEURS DE RISQUE
+COL DE L’UTÉRUS
+•  Papillomavirus humains
+•  Rapports sexuels à un âge 
+précoce
+•  Multiplicité des partenaires
+•  Multiparité
+•  Tabagisme
+•  Usage d’une contraception orale 
+(pilule œstroprogestative)
+•  Immunosuppression ou 
+certaines infections (VIH,  
+par exemple)
+OVAIRE
+•  Antécédents personnels  
+et familiaux
+•  Nulliparité
+•  Surpoids ou obésité
+•  Règles précoces,  
+ménopause tardive
+•  Âge
+28
+Les mélanomes 
+cutanés
+INCIDENCE EN 2023
+1 49 % des femmes
+soit 8 813 nouveaux cas
+VAM DU TSM (2019-2023) :  
++ 1,6 % par an
+51 % des hommes
+soit 9 109 nouveaux cas
+VAM DU TSM (2019-2023) :  
++ 1,6 % par an
+2
+1 42 % des femmes
+soit 800 décès
+VAM DU TSM (2019-2023) :  
+0 % par an 
+58 % des hommes
+soit 1 104 décès
+VAM DU TSM (2019-2023) :  
+0 % par an 
+2
+1
+2
+EN 2023, SUR 17 922 CAS
+EN 2023, SUR 1 904 DÉCÈS
+MORTALITÉ EN 2023
+DÉPISTAGE ET DÉTECTION
+Le diagnostic des cancers de la peau consiste en un examen visuel 
+complet destiné à repérer les taches ou grains de beauté suspects. 
+Pour les personnes à risque, il est recommandé d’effectuer un 
+autoexamen de la peau tous les trois mois et de se faire examiner  
+par un dermatologue une fois par an, mais aussi en cas de lésion 
+douteuse ou d’apparition d’une tache brune, évolutive ou dont 
+l’aspect s’est modifié.
+Le mélanome cutané est de bon pronostic s’il est détecté assez tôt. 
+Un diagnostic tardif réduit en revanche les chances de guérison,  
+car ces cancers sont à fort potentiel métastatique.
+ACTIONS DE PRÉVENTION
+Les rayonnements UV constituent la première cause de cancers 
+cutanés, en particulier de mélanomes. Pour limiter les risques,  
+il est essentiel de se protéger du soleil et d’éviter les cabines  
+de bronzage.
+1
+2
+17 922
+NOUVEAUX CAS  
+EN 2023
+1 904
+DÉCÈS EN 2023
+EN 2017 , LA PRÉVALENCE 
+DES MÉLANOMES DE LA PEAU 
+EST ESTIMÉE À
+183 571
+personnes [25]
+ÂGE MÉDIAN
+AU DIAGNOSTIC 
+EN 2023
+62 ans
+chez les femmes
+68 ans
+chez les hommes
+SURVIE NETTE STANDARDISÉE 
+À 5 ANS DES PERSONNES
+DIAGNOSTIQUÉES 
+ENTRE 2010 ET 2015
+93 %
+94 % pour les femmes  
+et 91 % pour les hommes
+FACTEURS DE RISQUE
+•  Exposition au soleil ou  
+aux ultraviolets artificiels
+•  Antécédents de coups de soleil 
+(notamment pendant 
+l’enfance)
+•  Sensibilité de la peau 
+(phototype) aux rayonnements 
+UV et au soleil
+•  Nombre élevé de grains  
+de beauté (>50)
+•  Antécédents personnels  
+ou familiaux
+• Immunodépression
+29
+L’Institut national  
+du cancer
+Agence d’expertise sanitaire et scientifique 
+publique, l’Institut national du cancer a été  
+créé par la loi de santé publique du 9 août 2004.  
+Il conduit l’élan national pour réduire le nombre  
+de cancers et leur impact dans notre pays.  
+Pour cela, l’Institut fédère et coordonne les acteurs 
+de la lutte contre les cancers dans les domaines  
+de la prévention, des dépistages, des soins, de  
+la recherche et de l’innovation. 
+Porteur d’une vision intégrée des dimensions 
+sanitaire, médicale, scientifique, sociale et 
+économique liées aux pathologies cancéreuses,  
+il met son action au service de l’ensemble des 
+concitoyens : patients, proches, aidants, usagers  
+du système de santé, population générale, 
+professionnels de santé, chercheurs et décideurs. 
+L’Institut assure la mise en œuvre de la stratégie 
+décennale de lutte contre les cancers 2021-2030.
+LA STRATÉGIE
+DÉCENNALE DE LUTTE 
+CONTRE LES CANCERS
+Initiée en 2021 par le 
+président de la République, 
+la Stratégie décennale de 
+lutte contre les cancers 
+2021-2030 marque une 
+volonté forte et partagée 
+d’améliorer l’offre de 
+santé et le service rendu  
+à l’ensemble des Français. 
+Elle s’articule autour  
+de 4 axes prioritaires :
+• Améliorer la prévention
+• Limiter les séquelles  
+et améliorer la qualité 
+de vie
+• Lutter contre les cancers 
+de mauvais pronostic
+• S’assurer que les progrès 
+bénéficient à tous
+Cette stratégie intervient 
+en complément des 
+actions, dispositifs et outils 
+structurants déjà en place, 
+que l’Institut national du 
+cancer continue à faire 
+évoluer dans une logique 
+d’amélioration continue de 
+la qualité et d’efficience, 
+sur les champs santé et 
+recherche, incluant les 
+actions engagées d’appui  
+à la structuration de la 
+recherche et les nombreux 
+programmes de recherche 
+déjà soutenus.
+30
+QUELLES SONT LES MISSIONS 
+DE L’INSTITUT NATIONAL DU CANCER ?
+LA PRÉVENTION
+L’Institut conçoit des campagnes de prévention 
+pour informer sur la survenue des cancers  
+et les facteurs de risque, et pour favoriser 
+l’appropriation de comportements sains.
+LES DÉPISTAGES
+L’Institut contribue à l’organisation des 
+dépistages organisés, à leur simplification,  
+et réalise des campagnes d’information pour 
+inciter à la participation. Il prépare aussi les 
+dépistages de demain.
+LES SOINS
+L’Institut définit les critères d’autorisation  
+et d’agrément des établissements et des 
+professionnels de santé pour le traitement  
+des cancers, ceci pour que tous les Français 
+bénéficient de la même qualité et sécurité  
+des soins sur l’ensemble du territoire.
+L’INFORMATION DONNÉE  
+AUX PERSONNES MALADES
+Soins de support, droit à l’oubli, maintien en 
+emploi : l’Institut mobilise tous les acteurs pour 
+permettre à chaque patient d’avoir une vie normale.
+LA PRODUCTION DE RÉFÉRENTIELS  
+POUR LES PROFESSIONNELS DE SANTÉ
+Avec les meilleurs experts, l’Institut élabore  
+des référentiels dans le domaine de l’organisation 
+et des parcours de soins en cancérologie, sur  
+les stratégies thérapeutiques, les médicaments  
+et leurs effets indésirables. Il s’agit de mettre  
+à disposition de tout professionnel de santé l’état 
+de l’art sur ces sujets.
+LE FINANCEMENT ET LA STRUCTURATION  
+DE LA RECHERCHE
+L’Institut est chargé de mettre en œuvre, de 
+financer et de coordonner les actions de recherche 
+et de développement en cancérologie. Il labellise 
+les entités et organisations de recherche, 
+répondant à des critères de qualité, en lien avec 
+les organismes publics de recherche concernés.  
+Sa volonté est de développer une recherche 
+fondamentale d’excellence et d’accélérer le 
+transfert des résultats au bénéfice du patient.
+L’INNOVATION THÉRAPEUTIQUE
+Afin de mieux préparer l’arrivée de ces évolutions, 
+l’Institut a mis en place un Horizon Scanning  
+qui permet de détecter les innovations à impact 
+pouvant se produire dans un délai de deux ans, et 
+en travaillant avec toutes les agences pour anticiper 
+leur impact. Il contribue aussi à la prévention des 
+tensions en identifiant les médicaments à risque  
+et les leviers sur lesquels agir.
+LA COOPÉRATION INTERNATIONALE
+L’Institut agit pour renforcer la coopération 
+internationale devenue indispensable pour résoudre 
+les questions scientifiques les plus complexes.
+LA DIFFUSION DES CONNAISSANCES
+Pour approfondir les connaissances sur les cancers, 
+leur survenue, les facteurs de risque et le devenir 
+des personnes malades, l’Institut développe 
+l’observation épidémiologique des cancers par des 
+outils de veille, des études, du recueil et de l’analyse 
+de données. Il contribue également à l’évaluation 
+de l’organisation de la santé, des soins et des 
+parcours de santé.
+POUR EN SAVOIR PLUS
+Consultez cancer.fr, le site de référence  
+sur les cancers. 
+31
+Glossaire 
+DÉPISTAGE : action ayant pour objectif de mettre 
+en évidence une anomalie liée à la présence 
+possible d’une lésion précancéreuse en l’absence 
+de symptôme ou de signe clinique. Le dépistage 
+n’est pas un diagnostic et doit généralement  
+être confirmé par des examens complémentaires 
+permettant de l’établir. Il peut être ciblé sur  
+un niveau de risque particulier.
+DÉPISTAGE ORGANISÉ : programme national 
+instauré par les pouvoirs publics, ayant une 
+population cible et généralisé à l’ensemble du 
+territoire national. Ce programme répond à un 
+cahier des charges. Un programme de dépistage 
+organisé répond à l’ensemble des critères définis 
+par l’Organisation mondiale de la santé (OMS) 
+(critères élaborés par Wilson et Junger en 1968).
+HOSPITALISATIONS : dites « en lien avec un 
+cancer », elles désignent l’ensemble des séjours  
+et séances hospitaliers du champ MCO associés à 
+une prise en charge liée à la cancérologie incluant : 
+le diagnostic ; les traitements curatifs, palliatifs  
+ou prophylactiques ; la surveillance des patients  
+en cours de traitement, après traitement, ainsi  
+que la surveillance des personnes ayant des 
+prédispositions au cancer ; la prise en charge des 
+complications ou conséquences (immédiates ou à 
+distance) de la maladie ; les effets secondaires des 
+traitements ; les prélèvements et greffes de moelle 
+osseuse et de cellules-souches hématopoïétiques 
+en rapport avec une pathologie cancéreuse.
+Cette catégorie englobe les séjours dits « motivés 
+par le cancer », qui sont un sous-ensemble défini 
+plus strictement. Ces derniers correspondent 
+uniquement aux séjours dont le diagnostic 
+principal est un code spécifique de cancer, de 
+radiothérapie ou de traitement médicamenteux 
+systémique du cancer.
+LISTE EN SUS : au sein des établissements de 
+santé, prise en charge par l’Assurance maladie  
+de spécialités pharmaceutiques coûteuses, pour 
+certaines de leurs indications thérapeutiques,  
+en sus des tarifs d’hospitalisation, lorsque ces 
+indications présentent un caractère innovant.
+MÉDECINE, CHIRURGIE, OBSTÉTRIQUE (MCO) : 
+le MCO regroupe les principales activités 
+hospitalières réalisées en établissement de santé 
+(médecine : soins non chirurgicaux [traitement  
+des maladies, suivi de patients, etc.] ; chirurgie : 
+interventions chirurgicales, programmées ou  
+en urgence ; obstétrique : tout ce qui concerne  
+la grossesse et l’accouchement).
+PAPILLOMAVIRUS HUMAINS (HPV) :  
+les papillomavirus humains (HPV) constituent  
+une importante famille de virus (plus de 
+200 types), dont certains sont à l’origine de 
+tumeurs malignes sur le col de l’utérus ou dans la 
+gorge.  
+Il existe aujourd’hui un vaccin contre les souches 
+les plus fréquemment associées au cancer du col 
+de l’utérus.
+PMSI-MCO : programme de médicalisation  
+des systèmes d’information médecine-chirurgie- 
+obstétrique.
+PRÉVENTION : domaines d’actions visant à éviter 
+l’apparition des maladies, à diminuer leur gravité  
+ou à limiter leurs conséquences. La classification 
+OMS distingue la prévention primaire, la 
+prévention secondaire et la prévention tertiaire :
+• prévention primaire : actions en amont de la 
+maladie, dont le but est de diminuer les facteurs 
+de risque ou d’accroître les facteurs protecteurs 
+afin d’éviter la survenue de la maladie.  
+Son objectif est de diminuer l’incidence 
+(exemple : la vaccination) ;
+• prévention secondaire : actions sur la maladie  
+et sa prise en charge afin d’en réduire sa durée 
+et/ou sa gravité. Elle peut agir sur la prévalence 
+(exemple : le dépistage précoce) ;
+• prévention tertiaire : actions en aval de la 
+maladie, afin d’en limiter ses répercussions  
+et d’éviter d’éventuelles rechutes (exemple : 
+éducation thérapeutique).
+Cette catégorie englobe les séjours dits « motivés 
+par le cancer », qui sont un sous-ensemble défini 
+plus strictement. Ces derniers correspondent 
+uniquement aux séjours dont le diagnostic 
+principal est un code spécifique au cancer.  
+Pour plus d’informations se référer à la documentation 
+sur cancer.fr
+RÉTROCESSION : dispensation, par la pharmacie  
+à usage intérieur d’un établissement de santé,  
+de médicaments à des patients non hospitalisés.
+32
+Références bibliographiques
+[1]. Lapôtre-Ledoux B., Remontet L., Uhry Z., Dantony E., 
+Grosclaude P., Molinié F., et al. Incidence des principaux 
+cancers en France métropolitaine en 2023 et tendances 
+depuis 1990. Bull. Épidémiol. Hebd. 2023 ; (12-13):188-204. 
+Disponible sur : https://beh.santepubliquefrance.fr/
+beh/2023/12-13/2023_12-13_1.html
+[2]. Defossez G., Le Guyader-Peyrou S., Uhry Z., 
+Grosclaude P., Colonna M., Dantony E., et al. Estimations 
+nationales de l’incidence et de la mortalité par cancer  
+en France métropolitaine entre 1990 et 2018. Synthèse. 
+Saint-Maurice : Santé publique France, 2019. 20 p. 
+Disponible sur : cancer.fr et santepubliquefrance.fr
+[3]. Institut national de la santé et de la recherche 
+médicale (INSERM). Données du Centre d’épidémiologie 
+sur les causes médicales de décès (CépiDc). Disponible 
+sur : https://opendata-cepidc.inserm.fr
+[4]. Coureau G., Mounier M., Tretarre B., Dantony E., 
+Uhry Z., Monnereau A. et al. Survie des personnes 
+atteintes de cancer en France métropolitaine 1989-2018 
+– Synthèse, INCa, juillet 2021, 20 p. Disponible sur : 
+cancer.fr et santepubliquefrance.fr 
+[5]. Institut national de la santé et de la recherche 
+médicale (INSERM). Données du registre national des 
+cancers de l’enfant (RNCE). Les chiffres. Disponible sur : 
+https://rnce.inserm.fr/rnce/les-chiffres
+[6]. Institut national du cancer. La lutte contre les cancers 
+pédiatriques en France, édition 2024. Disponible sur : 
+cancer.fr
+[7]. Institut national du cancer. La lutte contre les cancers 
+pédiatriques. Enjeux, actions et perspectives. Septembre 
+2025. Disponible sur : cancer.fr
+[8]. Marant-Micallef C., Shield K.D., Vignat J., Hill C., Rogel 
+A., Menvielle G., et al. Nombre et fractions de cancers 
+attribuables au mode de vie et à l’environnement en France 
+métropolitaine en 2015 : résultats principaux. Bull. 
+Épidémiol. Hebd. 2018 ; (21):442-8. Disponible sur : https://
+beh.santepubliquefrance.fr/beh/2018/21/2018_21_2.html
+[9]. Tabagisme : usage, envie d’arrêter et tentatives d’arrêt. 
+Baromètre de Santé publique France : résultats de l’édition 
+2024. Saint-Maurice : Santé publique France ; 2025 : 9 p. 
+Disponible sur : santepubliquefrance.fr
+[10]. Bonaldi C., Boussac M., Nguyen-Thanh V. 
+Estimation du nombre de décès attribuables au tabagisme, 
+en France de 2000 à 2015. Bull. Épidémiol. Hebd. 2019 ; 
+(15):278-84. Disponible sur : https://beh.
+santepubliquefrance.fr/beh/2019/15/2019_15_2.html
+[11]. Andler R., Quatremère G., Richard J.B., Beck F., 
+Nguyen-Thanh V. La consommation d’alcool des adultes 
+en France en 2021, évolutions récentes et tendances de 
+long terme. Bull. Épidémiol. Hebd. 2024 ; (2):22-31. 
+Disponible sur : https://beh.santepubliquefrance.fr/
+beh/2024/2/2024_2_1.html
+[12]. Bonaldi C., Hill C. La mortalité attribuable à l’alcool 
+en France en 2015. Bull. Épidémiol. Hebd. 2019 ; 
+(5-6):97-108. Disponible sur : https://invs.
+santepubliquefrance.fr/beh/2019/5-6/2019_5-6_2.html
+[13]. Centre international de recherche sur le cancer 
+(CIRC). Les cancers attribuables au mode de vie et à 
+l’environnement en France métropolitaine. 2018.
+[14]. Deschamps V., Salanave B., Verdot C. Fréquences 
+nationales et régionales de consommations alimentaires 
+par rapport aux recommandations nutritionnelles des 
+adultes français : résultats des Baromètres 2021 hexagonal 
+et DROM de Santé publique France. Bull. Épidémiol. 
+Hebd. 2025 ; (8):112-23. Disponible sur : https://beh.
+santepubliquefrance.fr/beh/2025/8/2025_8_1.html
+[15]. Verdot C., Torres M., Salanave B., Deschamps V. 
+Corpulence des enfants et des adultes en France 
+métropolitaine en 2015. Résultats de l’étude Esteban et 
+évolution depuis 2006. Bull. Épidémiol. Hebd. 2017 ; 
+(13):234-41. Disponible sur : https://invs.
+santepubliquefrance.fr/beh/2017/13/2017_13_1.html
+[16]. Fontbonne A., Currie A., Tounian P., Picot M.C., 
+Foulatier O., Nedelcu M., et al. Prevalence of Overweight 
+and Obesity in France: The 2020 Obepi-Roche Study by 
+the “Ligue Contre l’Obésité”. J Clin Med. 2023 ;12:925. 
+Disponible sur : https://doi.org/10.3390/jcm12030925
+[17]. Réseau Nutrition Activité physique Cancer 
+Recherche (NACRe). Cancers attribuables aux facteurs 
+nutritionnels. Disponible sur : https://www.reseaunacre.
+eu/prevention-primaire/vous-informer-sur/
+cancers-attribuables-aux-facteurs-nutritionnels
+[18]. Santé publique France. Évaluations des programmes 
+de dépistage du sein, colorectal et du col de l’utérus. 
+Disponible sur : santepubliquefrance.fr
+[19]. Ministère des Solidarités et de la Santé. Arrêté du 
+16 janvier 2024 relatif aux programmes de dépistages 
+organisés des cancers. JORF n°0021 du 26 janvier 2024.
+[20]. Haute Autorité de santé. Dépistage du cancer 
+bronchopulmonaire par scanner thoracique faible dose 
+sans injection : actualisation de l’avis de 2016. Saint-Denis 
+La Plaine : HAS ; 2021.
+[21]. Institut national du cancer. IMPULSION, le 
+programme pilote de dépistage des cancers du poumon  
+en France. Disponible sur : cancer.fr
+[22]. Agence technique de l’information sur 
+l’hospitalisation (ATIH). Les bases de données PMSI des 
+champs MCO. Disponible sur : https://www.atih.sante.fr/
+acces-aux-donnees
+[23]. Assurance maladie. Améliorer la qualité du système 
+de santé et maîtriser les dépenses. Disponible sur :  
+https://www.assurance-maladie.ameli.fr/sites/default/
+files/2026-07_rapport-propositions-pour-2027_
+assurance-maladie.pdf
+[24]. Agence du numérique en santé. Répertoire partagé 
+des professionnels intervenant dans le système de santé 
+(RPPS). Disponible sur : https://esante.gouv.fr/
+produits-services/repertoire-rpps
+[25]. Cowppli-Bony A., Colonna M., Ligier K., Jooste V., 
+Defossez G., Monnereau A., et al. Épidémiologie 
+descriptive des cancers en France métropolitaine : 
+incidence, survie et prévalence. Bull. Cancer. 2019 
+Jul-Aug;106(7-8):617-34. doi:10.1016/j.bulcan.2018.11.016
+[26]. Molinié F., Lafay L., Rogel A. Clarification 
+Regarding Breast Cancer Stage in France. JAMA Oncol. 
+2024;10(6):831–832. doi:10.1001/jamaoncol.2024.0668
+33
+CANCER.FR
+LE SITE DE RÉFÉRENCE
+SUR LES CANCERS
+L’information des publics est au cœur des missions  
+de l’Institut national du cancer. Personnes malades, 
+proches aidants, professionnels de santé, chercheurs  
+ou tout public, lorsqu’on est confronté à des questions  
+sur les cancers on se tourne d’abord vers Internet.  
+Mais dans un contexte où la désinformation médicale  
+est omniprésente, avoir accès à la bonne source 
+d’informations est essentiel.
+TROUVER EN TOUTE CONFIANCE LES RÉPONSES  
+AUX QUESTIONS QUE CHACUN SE POSE
+Rendez-vous sur cancer.fr
+→
+→
+→
+Une information toujours fiable, 
+validée par des experts
+Des formats enrichis pour mieux 
+accompagner les publics
+Des parcours plus intuitifs pour  
+un service rendu plus performant
+Coordination éditoriale et graphique
+Service Publications et valorisation,  
+direction de la Communication et de l’Information,
+Institut national du cancer
+Panorama des cancers en France – Édition 2026
+Édité par l’Institut national du cancer (INCa)
+Tous droits réservés – Siren 185 512 777
+ 
+ISBN : 978-2-38559-206-6
+ISBN NET : 978-2-38559-207-3
+DÉPÔT LÉGAL : JUILLET 2026
+Consultez facilement  
+notre catalogue  
+des publications
+DÉCOUVREZ LE CATALOGUE 
+DES PUBLICATIONS 
+DE L’INSTITUT NATIONAL DU CANCER
+POURQUOI, POUR QUI ?
+Une large sélection de ressources, regroupées dans le 
+catalogue des publications et destinées à informer, 
+accompagner et répondre aux besoins des professionnels  
+de santé, des patients et de leurs proches, des chercheurs  
+et des décideurs publics. 
+QUE VAIS-JE Y TROUVER ?
+Des guides pratiques, des brochures d’information, des 
+documents scientifiques, des rapports annuels ainsi que  
+des supports pédagogiques. Toutes les publications sont 
+disponibles gratuitement au téléchargement et à la commande.
+COMMENT Y ACCÉDER ?
+Depuis le site cancer.fr, avec une navigation intuitive qui 
+permet de rechercher des publications par thématique, 
+public ou type de cancer.
+PANOKFR2026
+Reg stre  
+N ational  
+des C ancers

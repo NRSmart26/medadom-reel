@@ -6,8 +6,9 @@ fait source et une ouverture vers la pratique), deux formats (9:16 et carre Link
     python motion.py <piece> --planche    idem, plus une planche d'images par version et par format
     python motion.py <piece>              son, rendu des 4 videos et couvertures, dans SORTIE
     options : --version marque|info, --format 9x16|1x1
-    python motion.py <piece> --voix       la version info avec voix, en carre LinkedIn seulement ; avec --essai ou
-                                          --planche : temps estimes si la voix n'est pas en cache, aucun credit
+    python motion.py <piece> --voix       la version info avec voix, en carre LinkedIn (--format 9x16 : Instagram) ;
+                                          avec --essai ou --planche : temps estimes si la voix n'est pas en cache,
+                                          aucun credit
 
 Rien d'autre dans le dossier pendant un rendu (voir CLAUDE.md, « Format et rendu »)."""
 import json
@@ -39,9 +40,9 @@ PIECES = {
                      ("p1b", "novembre, on en parle.", .6),
                      ("p2", "[serious] Le cancer de la prostate est", 0),
                      ("p2a", "le plus fréquent chez l’homme :", 0),
-                     ("p2b", "près de soixante mille", 0),
-                     ("p2c", "nouveaux cas en France,", 0),
-                     ("p2d", "en deux mille dix-huit, les dernières données disponibles.", 1.0),
+                     ("p2b", "plus de cinquante-cinq mille", 0),
+                     ("p2c", "nouveaux cas estimés en France en deux mille vingt-quatre,", 0),
+                     ("p2d", "et plus de neuf mille décès en deux mille vingt-trois.", 1.0),
                      ("p3", "[warm] En consultation comme en téléconsultation :", 0),
                      ("p3b", "parlons-en.", 1.3),
                      ("signature", "Médadom Professionnel.", 0)]}},
@@ -233,20 +234,20 @@ def son_voix(piece, c):
     return melange
 
 
-def main_voix(piece, essai, avec_planche):
-    """La version info avec voix, en carre LinkedIn seulement : la voix commande les plans."""
+def main_voix(piece, essai, avec_planche, f="1x1"):
+    """La version info avec voix, en carre LinkedIn ou en 9:16 : la voix commande les plans."""
     TRAVAIL.mkdir(parents=True, exist_ok=True)
     payer = not (essai or avec_planche)
     c = calage_voix(piece, payer)
     print("voix en cache" if c["mp3"] else "temps estimes (aucun credit)", f"; {c['total']:.2f} s ;", c["temps"])
-    chemin = page(piece, "voix", "1x1", duree=c["total"], temps=c["temps"])
+    chemin = page(piece, "voix", f, duree=c["total"], temps=c["temps"])
     with sync_playwright() as pw:
         nav = pw.chromium.launch(channel="chrome", args=["--allow-file-access-from-files", "--disable-gpu"])
-        pg = ouvrir(nav, chemin, "1x1")
+        pg = ouvrir(nav, chemin, f)
         ecarts = controler(pg, c["total"])
-        print(f"{piece} voix 1x1 : " + ("marges OK" if not ecarts else "\n    " + "\n    ".join(ecarts[:12])))
+        print(f"{piece} voix {f} : " + ("marges OK" if not ecarts else "\n    " + "\n    ".join(ecarts[:12])))
         if avec_planche:
-            feuille = TRAVAIL / f"{piece}_voix_1x1_planche.png"
+            feuille = TRAVAIL / f"{piece}_voix_{f}_planche.png"
             planche(pg, c["total"], feuille, n=20)
             print("  ", feuille)
         nav.close()
@@ -256,9 +257,10 @@ def main_voix(piece, essai, avec_planche):
         raise SystemExit("[!] marges : rendu arrete")
     SORTIE.mkdir(parents=True, exist_ok=True)
     wav = son_voix(piece, c)
-    final = SORTIE / f"medadom_{piece}_info_voix_1x1_linkedin.mp4"
+    nom = "9x16_instagram_facebook" if f == "9x16" else "1x1_linkedin"
+    final = SORTIE / f"medadom_{piece}_info_voix_{nom}.mp4"
     r = subprocess.run([sys.executable, str(ICI / "rendu.py"), str(chemin), str(final), "--audio", str(wav),
-                        "--hauteur", "1080"])
+                        "--hauteur", str(FORMATS[f])])
     if r.returncode:
         raise SystemExit(f"[!] rendu {piece} voix interrompu")
 
@@ -268,7 +270,8 @@ def main():
         raise SystemExit(__doc__ + f"\npieces : {', '.join(PIECES)}")
     piece = sys.argv[1]
     if "--voix" in sys.argv:
-        return main_voix(piece, "--essai" in sys.argv, "--planche" in sys.argv)
+        f = sys.argv[sys.argv.index("--format") + 1] if "--format" in sys.argv else "1x1"
+        return main_voix(piece, "--essai" in sys.argv, "--planche" in sys.argv, f)
     choix = lambda opt, tous: [sys.argv[sys.argv.index(opt) + 1]] if opt in sys.argv else tous
     versions, formats = choix("--version", ["marque", "info"]), choix("--format", list(FORMATS))
     essai, avec_planche = "--essai" in sys.argv, "--planche" in sys.argv

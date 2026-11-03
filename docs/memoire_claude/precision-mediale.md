@@ -5,7 +5,7 @@ metadata:
   node_type: memory
   type: feedback
   originSessionId: c52333eb-2092-4068-8d6a-41bf40843acc
-  modified: 2026-10-06T07:56:11.201Z
+  modified: 2026-11-03T17:50:01.777Z
 ---
 
 Le 01/10/2026, Romain a refuse « Vos patients les plus malades vont payer plus » (« payer
@@ -32,3 +32,9 @@ Règles qui en découlent : une condition ne se coupe jamais, même dans une lis
 croix ; une liste officielle se reprend mot pour mot, avec la source de cette formulation.
 L'article source lui-même peut se tromper : vérifier chaque fait du reel à la source
 officielle (FAQ et courriers compris).
+
+Le 03/11/2026, sur un chiffre de cancer de la prostate daté de 2018 (reel Movember), Romain : « trouve un chiffre
+plus récent, 2018 c'était il y a 8 ans ». Règle : toujours chercher le chiffre le plus récent, à la date du jour,
+avant de l'écrire, et lire l'année dans le document d'origine : une reprise dans la presse peut la déformer. Si la
+source française s'arrête à une vieille année, regarder la source internationale (CIRC-OMS, GLOBOCAN) ; le dire
+« estimé » si c'en est un, et ne jamais écrire « par an » pour un chiffre d'une seule année.
