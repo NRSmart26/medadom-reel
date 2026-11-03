@@ -45,8 +45,9 @@ PIECES = {
                      ("p3", "[warm] En consultation comme en téléconsultation :", 0),
                      ("p3b", "parlons-en.", 1.3),
                      ("signature", "Médadom Professionnel.", 0)]}},
-    # « aucune » : video muette, Romain ajoute la musique a la publication (30/10/2026)
-    "sans_tabac": {"musique": "aucune", "debut": 0.0, "mesure": 3.0,
+    # « aucune » : video muette, possible pour une piece. Ici, la musique fournie par Romain (03/11/2026), jouee de
+    # 8,75 s a 29,6 s du fichier (silence avant, arret net apres), bouclee en fondu ; mesure : le rythme de l'animation
+    "sans_tabac": {"musique": ICI / "musique" / "sans_tabac_recording-00_32.mp3", "debut": 8.75, "fin": 29.6, "mesure": 3.0,
                    "durees": {"marque": 12.5, "info": 25.5}, "couverture": 8.6,
                    "voix": {"id": voix.EMILIE, "cale_nom": 6.15, "segments": [
                        ("intro", "[warm] Médecins généralistes : du premier au trente novembre, c’est le", 0),
@@ -128,12 +129,28 @@ def couverture(pg, t, sortie):
     pg.screenshot(path=str(sortie))
 
 
+def source_musique(piece, duree):
+    """(fichier, debut) de la musique ; si la piece borne sa musique (« fin ») et qu'elle est plus courte que le
+    reel, elle s'enchaine une fois sur elle-meme, en fondu de 1,5 s au raccord."""
+    p = PIECES[piece]
+    if "fin" not in p or p["fin"] - p["debut"] >= duree:
+        return p["musique"], p["debut"]
+    long = p["fin"] - p["debut"]
+    if 2 * long - 1.5 < duree:
+        raise SystemExit(f"[!] {piece} : musique plus courte que le reel ({duree:.1f} s), meme bouclee une fois")
+    boucle = TRAVAIL / f"{piece}_boucle.wav"
+    entree = ["-ss", f"{p['debut']:.3f}", "-t", f"{long:.3f}", "-i", str(p["musique"])]
+    ff(*entree, *entree, "-filter_complex", "[0:a][1:a]acrossfade=d=1.5:c1=tri:c2=tri", str(boucle))
+    return boucle, 0.0
+
+
 def son(piece, version):
     """Extrait de la musique a la duree exacte du reel : entree nette, fondu de sortie, -14 LUFS."""
     p = PIECES[piece]
     duree = p["durees"][version]
     wav = TRAVAIL / f"{piece}_{version}.wav"
-    ff("-ss", f"{p['debut']:.3f}", "-i", str(p["musique"]), "-af",
+    fichier, debut = source_musique(piece, duree)
+    ff("-ss", f"{debut:.3f}", "-i", str(fichier), "-af",
        f"afade=t=in:d=0.04,afade=t=out:st={duree - 1.4:.3f}:d=1.4,loudnorm=I=-14:TP=-1.5,aresample=48000,"
        f"apad=whole_dur={duree:.3f}", "-t", f"{duree:.3f}", "-ac", "2", str(wav))
     return wav
@@ -205,7 +222,8 @@ def son_voix(piece, c):
         ff("-i", str(posee), "-af", "loudnorm=I=-14:TP=-1.5,aresample=48000", "-t", f"{total:.3f}", str(melange))
         return melange
     musique = TRAVAIL / f"{piece}_voix_musique.wav"
-    ff("-ss", f"{p['debut']:.3f}", "-i", str(p["musique"]), "-af",
+    fichier, debut = source_musique(piece, total)
+    ff("-ss", f"{debut:.3f}", "-i", str(fichier), "-af",
        f"atrim=0:{total:.3f},loudnorm=I=-26:TP=-3,aresample=48000,afade=t=in:d=0.04,"
        f"afade=t=out:st={total - 2.2:.3f}:d=2.2", "-ac", "2", str(musique))
     ff("-i", str(musique), "-i", str(posee), "-filter_complex",

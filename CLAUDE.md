@@ -150,8 +150,10 @@ mais une bonne musique, une direction artistique par thème, et une couverture f
   Medadom à la même hauteur que la couverture du reel infection urinaire (y = 330) : le haut du profil se lit
   comme une campagne. Contrôler l'ensemble sur un montage des trois couvertures.
 - Musique : gratuite et libre d'usage commercial, jamais déposée au Content ID (réclamations sur Instagram).
-  Ou `"musique": "aucune"` : vidéo muette (`…_muette.mp4`), Romain ajoute la musique à la publication (Mois sans
-  tabac, 30/10/2026).
+  Ou `"musique": "aucune"` : vidéo muette (`…_muette.mp4`), si Romain ajoute la musique à la publication. Une musique
+  fournie par Romain peut être un enregistrement : borner la partie jouée (`debut`, `fin`, mesurés sur le fichier) ;
+  `motion.py` la boucle en fondu si elle est plus courte que le reel (Mois sans tabac, 03/11/2026 : droits non
+  vérifiés, à signaler).
 - GSAP : `tl.set` puis `tl.to`, pas `fromTo`, pour un élément qui doit rester caché jusqu'à son instant
   (`fromTo` pose ses valeurs de départ dès la construction : l'onde du Mois sans tabac était visible dès t = 0).
 - Bodoni MT (Movember) est une police d'Office : sur un PC sans Office, Chrome prendrait une autre police.

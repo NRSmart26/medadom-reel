@@ -48,6 +48,7 @@ Motion.demarrer(function (M) {
     .gros { font: 800 230px/1 Poppins; color: ${VERT}; letter-spacing: -.04em; }
     html.carre .gros { font-size: 168px; }
     .phrase { font: 600 64px/1.18 Poppins; letter-spacing: -.01em; }
+    html.carre .seul-916 { display: none; }
     html.carre .phrase { font-size: 50px; }
     .etiquette { display: inline-block; font: 600 30px/1 Poppins; letter-spacing: .1em; text-transform: uppercase; color: #fff;
       background: ${VERT}; border-radius: 999px; padding: 16px 28px 14px; }
@@ -179,7 +180,7 @@ Motion.demarrer(function (M) {
   // les plans se calent sur la voix quand il y en a une (version « voix », D.temps)
   const t1 = V ? V.p1 - .25 : TI + .5, t2 = V ? V.p2 - .25 : t1 + L, t3 = V ? V.p3 - .25 : t2 + L, t4 = V ? S : t3 + L;
   const p1 = plan(`<div class="gros">55 %</div>
-    <div class="phrase" style="margin-top:18px">des fumeurs quotidiens<br>souhaitent arrêter de fumer</div>
+    <div class="phrase" style="margin-top:18px">des fumeurs quotidiens<br>souhaitent arrêter <br class="seul-916">de fumer</div>
     <div class="source" style="margin-top:40px">Source : Santé publique France, Baromètre 2024</div>`, t1, t2);
   const g1 = p1.querySelector(".gros");
   apparaitre(g1, t1 + .05); compteur(g1, 0, 55, 1.2, t1 + .05, 0, "power2.out", 0, " %");
